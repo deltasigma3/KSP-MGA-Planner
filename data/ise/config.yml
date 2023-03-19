@@ -22,8 +22,8 @@ orbit:
   epochOffset:        0             # offset for bodies' epochs (reference for epoch 0), in seconds
 
 camera:
-  startDist:          100           # distance from sun of start
-  maxDist:            3000          # maximum distance that can be zoomed out
+  startDist:          50           # distance from sun of start
+  maxDist:            10000          # maximum distance that can be zoomed out
   minDistRadii:       1.5           # minimum distance to a body, in radii of the focused body
   dampingFactor:      0.5           # camera motion damping
   rotateSpeed:        0.5           # camera rotation speed
