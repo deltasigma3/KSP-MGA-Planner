@@ -15,15 +15,15 @@ solarSystem:
   soiOpacity:         0.3           # the opacity of SOI spheres
 
 orbit:
-  satSampPoints:      1000          # sample points for satellites' orbits
-  planetSampPoints:   10000         # sample points for planets' orbits
+  satSampPoints:      500          # sample points for satellites' orbits
+  planetSampPoints:   5000         # sample points for planets' orbits
   orbitLineWidth:     1.5           # width of the rendered orbit lines
   arcLineWidth:       2.25          # width of the rendered trajectory arc lines
   epochOffset:        0             # offset for bodies' epochs (reference for epoch 0), in seconds
 
 camera:
   startDist:          100           # distance from sun of start
-  maxDist:            1000          # maximum distance that can be zoomed out
+  maxDist:            3000          # maximum distance that can be zoomed out
   minDistRadii:       1.5           # minimum distance to a body, in radii of the focused body
   dampingFactor:      0.5           # camera motion damping
   rotateSpeed:        0.5           # camera rotation speed
