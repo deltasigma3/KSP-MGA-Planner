@@ -14,6 +14,9 @@
 
 - name: Real Solar System
   folderName: rss
+  
+- name: ionic solar evolution
+  folderName: ise
 
 # Template:
 # - name: New Solar System
