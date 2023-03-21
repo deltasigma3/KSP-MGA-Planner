@@ -1356,7 +1356,7 @@
   orbit:
     semiMajorAxis:    30000000
     eccentricity:     0
-    inclination:      0
+    inclination:      5
     argOfPeriapsis:   0
     ascNodeLongitude: 0
   meanAnomaly0:       0
@@ -1392,7 +1392,7 @@
   orbit:
     semiMajorAxis:    34400000
     eccentricity:     0.05
-    inclination:      0
+    inclination:      0.2
     argOfPeriapsis:   90
     ascNodeLongitude: 280
   meanAnomaly0:       3.14
@@ -1429,7 +1429,7 @@
   orbit:
     semiMajorAxis:    47000000
     eccentricity:     0
-    inclination:      0
+    inclination:      6
     argOfPeriapsis:   38
     ascNodeLongitude: 78
   meanAnomaly0:       0.899999976158142
@@ -1465,7 +1465,7 @@
   orbit:
     semiMajorAxis:    145000
     eccentricity:     0.162213586924441
-    inclination:      0
+    inclination:      6.90187431871891
     argOfPeriapsis:   15
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
@@ -1520,7 +1520,7 @@
   orbit:
     semiMajorAxis:    55000000
     eccentricity:     0.05
-    inclination:      0
+    inclination:      9
     argOfPeriapsis:   300
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
@@ -1532,13 +1532,13 @@
   id:                 84
   name:               Phybi
   radius:             100000
-  mass:               367328783542843500000
-  stdGravParam:       24516625000
-  soi:                8902439.420975983
+  mass:               484873994276553360000
+  stdGravParam:       32361945000
+  soi:                9948064.66344693
   orbit:
     semiMajorAxis:    65000000
     eccentricity:     0
-    inclination:      0
+    inclination:      12
     argOfPeriapsis:   12
     ascNodeLongitude: 35
   meanAnomaly0:       0
@@ -1550,13 +1550,13 @@
   id:                 85
   name:               Iszmi
   radius:             12500
-  mass:               2295804897142771700
-  stdGravParam:       153228906.25
-  soi:                223254.8633743202
+  mass:               4591609794285543400
+  stdGravParam:       306457812.5
+  soi:                263623.0340862411
   orbit:
     semiMajorAxis:    1700000
     eccentricity:     0.45
-    inclination:      0
+    inclination:      -17
     argOfPeriapsis:   12
     ascNodeLongitude: 0
   meanAnomaly0:       0
