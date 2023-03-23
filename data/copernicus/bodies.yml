@@ -1170,7 +1170,7 @@
   atmosphereAlt:      70000
   mass:               5.291341414080878e+22
   stdGravParam:       3531600000000
-  soi:                84159286.4796305
+  soi:                .inf
   orbit:
     semiMajorAxis:    13599840256
     eccentricity:     0
