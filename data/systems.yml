@@ -17,7 +17,9 @@
   
 - name: Kitchen Sink Space Heater Edition
   folderName: ise
-
+  
+- name: Copernicus was wrong
+  folderName: copernicus
 # Template:
 # - name: New Solar System
 #   folderName: new-solar-system
