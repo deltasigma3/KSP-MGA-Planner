@@ -1767,6 +1767,25 @@
 
 - !!map
   id:                 97
+  name:               Takloth
+  radius:             251060
+  atmosphereAlt:      60000
+  mass:               3.500755668747784e+21
+  stdGravParam:       233650935599.23334
+  soi:                33904888.69195568
+  orbit:
+    semiMajorAxis:    16788050302
+    eccentricity:     0.05
+    inclination:      0.4
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           0
+  color:              0x725919
+
+- !!map
+  id:                 98
   name:               Tekcate
   radius:             60000
   mass:               31737206898101674000
@@ -1784,7 +1803,7 @@
   color:              0x7f3f0
 
 - !!map
-  id:                 98
+  id:                 99
   name:               Tekili
   radius:             7000
   mass:               17999110393599330
@@ -1798,11 +1817,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           97
+  orbiting:           98
   color:              0x7f3f7f
 
 - !!map
-  id:                 99
+  id:                 100
   name:               Tekova
   radius:             3500
   mass:               4499777598399832.5
@@ -1816,11 +1835,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           97
+  orbiting:           98
   color:              0x3f7f26
 
 - !!map
-  id:                 100
+  id:                 101
   name:               Duna
   radius:             320000
   atmosphereAlt:      50000
@@ -1839,7 +1858,7 @@
   color:              0xa33f28
 
 - !!map
-  id:                 101
+  id:                 102
   name:               Ike
   radius:             130000
   mass:               278206981603224350000
@@ -1853,11 +1872,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.70000004768372
   epoch:              0
-  orbiting:           100
+  orbiting:           101
   color:              0x858a9a
 
 - !!map
-  id:                 102
+  id:                 103
   name:               Evone
   radius:             4055
   mass:               9180794483942136
@@ -1871,11 +1890,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           101
+  orbiting:           102
   color:              0xNaN
 
 - !!map
-  id:                 103
+  id:                 104
   name:               Nyke
   radius:             38000
   mass:               4667720318235620000
@@ -1889,11 +1908,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.645772
   epoch:              0
-  orbiting:           100
+  orbiting:           101
   color:              0x858a9a
 
 - !!map
-  id:                 104
+  id:                 105
   name:               Smov
   radius:             40000
   mass:               14105425288045190000
@@ -1907,11 +1926,11 @@
     ascNodeLongitude: 31
   meanAnomaly0:       8
   epoch:              6
-  orbiting:           100
+  orbiting:           101
   color:              0x666666
 
 - !!map
-  id:                 105
+  id:                 106
   name:               Prolla
   radius:             60000
   mass:               27342824408587240000
@@ -1925,11 +1944,11 @@
     ascNodeLongitude: 135.5
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           100
+  orbiting:           101
   color:              0xffcccc
 
 - !!map
-  id:                 106
+  id:                 107
   name:               Karise
   radius:             146000
   atmosphereAlt:      60000.0
@@ -1944,11 +1963,11 @@
     ascNodeLongitude: 954
   meanAnomaly0:       0
   epoch:              58932
-  orbiting:           100
+  orbiting:           101
   color:              0x664c33
 
 - !!map
-  id:                 107
+  id:                 108
   name:               Edas
   radius:             2000
   mass:               15222104790015432
@@ -1966,7 +1985,7 @@
   color:              0x4f4d48
 
 - !!map
-  id:                 108
+  id:                 109
   name:               Tellumo
   radius:             1000000
   atmosphereAlt:      45000
@@ -1985,7 +2004,7 @@
   color:              0xe566e5
 
 - !!map
-  id:                 109
+  id:                 110
   name:               Lili
   radius:             7000
   mass:               107994662361595980
@@ -1999,11 +2018,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           108
+  orbiting:           109
   color:              0x7fffff
 
 - !!map
-  id:                 110
+  id:                 111
   name:               Karami
   radius:             2815377
   atmosphereAlt:      256666.0
@@ -2022,7 +2041,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 111
+  id:                 112
   name:               Oistea
   radius:             163000
   mass:               425516748417811600000
@@ -2036,11 +2055,11 @@
     ascNodeLongitude: 247.556626796722
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           110
+  orbiting:           111
   color:              0xNaN
 
 - !!map
-  id:                 112
+  id:                 113
   name:               Milbin
   radius:             516788
   atmosphereAlt:      49000.0
@@ -2055,11 +2074,11 @@
     ascNodeLongitude: 34.5518034696579
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           110
+  orbiting:           111
   color:              0xNaN
 
 - !!map
-  id:                 113
+  id:                 114
   name:               Mininma
   radius:             34765
   mass:               15449650950480556000
@@ -2073,11 +2092,11 @@
     ascNodeLongitude: 26.3252109289169
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           110
+  orbiting:           111
   color:              0x1a38
 
 - !!map
-  id:                 114
+  id:                 115
   name:               Yar
   radius:             116843
   mass:               369095009565355400000
@@ -2091,11 +2110,11 @@
     ascNodeLongitude: 67.4581950902939
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           110
+  orbiting:           111
   color:              0xNaN
 
 - !!map
-  id:                 115
+  id:                 116
   name:               Helvica
   radius:             2120000
   atmosphereAlt:      325000.0
@@ -2114,7 +2133,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 116
+  id:                 117
   name:               Sothys
   radius:             91200
   mass:               134430345165185860000
@@ -2128,11 +2147,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       5
   epoch:              0
-  orbiting:           115
+  orbiting:           116
   color:              0x99b2e5
 
 - !!map
-  id:                 117
+  id:                 118
   name:               NeusNadavo
   radius:             460000
   atmosphereAlt:      72000
@@ -2147,11 +2166,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       20
   epoch:              0
-  orbiting:           115
+  orbiting:           116
   color:              0xNaN
 
 - !!map
-  id:                 118
+  id:                 119
   name:               Redulux
   radius:             220000
   mass:               1.7352024008510257e+21
@@ -2165,11 +2184,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       55
   epoch:              0
-  orbiting:           115
+  orbiting:           116
   color:              0xNaN
 
 - !!map
-  id:                 119
+  id:                 120
   name:               Ruse
   radius:             11200
   mass:               44234613703309710
@@ -2183,11 +2202,11 @@
     ascNodeLongitude: 70
   meanAnomaly0:       35
   epoch:              0
-  orbiting:           118
+  orbiting:           119
   color:              0xNaN
 
 - !!map
-  id:                 120
+  id:                 121
   name:               Sonus
   radius:             800000
   atmosphereAlt:      70000
@@ -2206,7 +2225,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 121
+  id:                 122
   name:               Sojos
   radius:             86000
   mass:               326011641969944400000
@@ -2220,11 +2239,11 @@
     ascNodeLongitude: 300.92111111
   meanAnomaly0:       1.1
   epoch:              56
-  orbiting:           120
+  orbiting:           121
   color:              0x999999
 
 - !!map
-  id:                 122
+  id:                 123
   name:               Mios
   radius:             350000
   atmosphereAlt:      60000.0
@@ -2243,7 +2262,7 @@
   color:              0x5391aa
 
 - !!map
-  id:                 123
+  id:                 124
   name:               Glac
   radius:             20000
   mass:               2203972701257060900
@@ -2257,11 +2276,11 @@
     ascNodeLongitude: 97
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           122
+  orbiting:           123
   color:              0xb3d3ff
 
 - !!map
-  id:                 124
+  id:                 125
   name:               Serc
   radius:             35000
   mass:               13949310555039482000
@@ -2275,11 +2294,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           122
+  orbiting:           123
   color:              0xba997c
 
 - !!map
-  id:                 125
+  id:                 126
   name:               Odysseus
   radius:             5000000
   atmosphereAlt:      200000
@@ -2298,7 +2317,7 @@
   color:              0xffdb0
 
 - !!map
-  id:                 126
+  id:                 127
   name:               Telemachus
   radius:             500000
   mass:               1.7218537284339233e+22
@@ -2312,11 +2331,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0x8c8c9f
 
 - !!map
-  id:                 127
+  id:                 128
   name:               Antinous
   radius:             21000
   mass:               3806812828621803000
@@ -2330,11 +2349,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0x8cbfbf
 
 - !!map
-  id:                 128
+  id:                 129
   name:               Penelope
   radius:             500000
   mass:               1.6851208500796394e+22
@@ -2348,11 +2367,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0x953a35
 
 - !!map
-  id:                 129
+  id:                 130
   name:               Polyphemus
   radius:             12000
   mass:               809192985211932400
@@ -2366,11 +2385,11 @@
     ascNodeLongitude: 255
   meanAnomaly0:       1.71681469282041
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0x7f7fb2
 
 - !!map
-  id:                 130
+  id:                 131
   name:               Eumaeus
   radius:             250000
   mass:               3.0304624642284585e+21
@@ -2384,11 +2403,11 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0xdb7fbc
 
 - !!map
-  id:                 131
+  id:                 132
   name:               Athena
   radius:             2000000
   atmosphereAlt:      200000
@@ -2403,11 +2422,11 @@
     ascNodeLongitude: 61
   meanAnomaly0:       5.59607362747192
   epoch:              0
-  orbiting:           125
+  orbiting:           126
   color:              0x72cc
 
 - !!map
-  id:                 132
+  id:                 133
   name:               Aeolus
   radius:             320000
   mass:               2.821085148636049e+21
@@ -2421,11 +2440,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           131
+  orbiting:           132
   color:              0xffdb0
 
 - !!map
-  id:                 133
+  id:                 134
   name:               Frigus
   radius:             120000
   mass:               930958069010982500000
@@ -2443,7 +2462,7 @@
   color:              0xffffff
 
 - !!map
-  id:                 134
+  id:                 135
   name:               Tresden
   radius:             13500
   mass:               4284522931243726300
@@ -2457,11 +2476,11 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           133
+  orbiting:           134
   color:              0xffffff
 
 - !!map
-  id:                 135
+  id:                 136
   name:               Varuta
   radius:             350000
   mass:               5.939706429887779e+21
@@ -2479,7 +2498,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 136
+  id:                 137
   name:               Theonus
   radius:             55000
   mass:               25334666200949916000
@@ -2493,11 +2512,11 @@
     ascNodeLongitude: 21
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           135
+  orbiting:           136
   color:              0xNaN
 
 - !!map
-  id:                 137
+  id:                 138
   name:               Olten
   radius:             110000
   mass:               195565844358209860000
@@ -2511,11 +2530,11 @@
     ascNodeLongitude: 18
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           135
+  orbiting:           136
   color:              0xNaN
 
 - !!map
-  id:                 138
+  id:                 139
   name:               Oltimos
   radius:             4500
   mass:               5950726293394064
@@ -2529,11 +2548,11 @@
     ascNodeLongitude: 1
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           137
+  orbiting:           138
   color:              0xNaN
 
 - !!map
-  id:                 139
+  id:                 140
   name:               Deaphus
   radius:             34000
   mass:               4925732055796113000
@@ -2547,11 +2566,11 @@
     ascNodeLongitude: 35
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           135
+  orbiting:           136
   color:              0xNaN
 
 - !!map
-  id:                 140
+  id:                 141
   name:               Rebos
   radius:             25000
   mass:               918321958857108700
@@ -2565,11 +2584,11 @@
     ascNodeLongitude: 5
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           135
+  orbiting:           136
   color:              0xNaN
 
 - !!map
-  id:                 141
+  id:                 142
   name:               Ira
   radius:             8000000
   atmosphereAlt:      26700
@@ -2588,7 +2607,7 @@
   color:              0x28ffff
 
 - !!map
-  id:                 142
+  id:                 143
   name:               Butai
   radius:             400000
   atmosphereAlt:      50000
@@ -2607,7 +2626,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 143
+  id:                 144
   name:               Kibbos
   radius:             235670
   mass:               1.5505192287226398e+21
@@ -2621,11 +2640,11 @@
     ascNodeLongitude: 235
   meanAnomaly0:       0
   epoch:              12
-  orbiting:           142
+  orbiting:           143
   color:              0xNaN
 
 - !!map
-  id:                 144
+  id:                 145
   name:               Vant
   radius:             69000
   mass:               34277505833570562000
@@ -2643,7 +2662,7 @@
   color:              0x9a9684
 
 - !!map
-  id:                 145
+  id:                 146
   name:               Poae
   radius:             1745000
   atmosphereAlt:      150000
@@ -2662,7 +2681,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 146
+  id:                 147
   name:               Flimbos
   radius:             15683
   mass:               2685109805850688000
@@ -2676,11 +2695,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           145
+  orbiting:           146
   color:              0xNaN
 
 - !!map
-  id:                 147
+  id:                 148
   name:               Cyran
   radius:             8000000
   atmosphereAlt:      500000
@@ -2699,7 +2718,7 @@
   color:              0xc75d1c
 
 - !!map
-  id:                 148
+  id:                 149
   name:               Infernas
   radius:             150000
   atmosphereAlt:      50000
@@ -2714,11 +2733,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           147
+  orbiting:           148
   color:              0xcc1919
 
 - !!map
-  id:                 149
+  id:                 150
   name:               Dres
   radius:             138000
   mass:               321898754925610200000
@@ -2732,11 +2751,11 @@
     ascNodeLongitude: 280
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           147
+  orbiting:           148
   color:              0x5a4432
 
 - !!map
-  id:                 150
+  id:                 151
   name:               Dread
   radius:             20000
   mass:               7052712644022595000
@@ -2750,11 +2769,11 @@
     ascNodeLongitude: 26
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           149
+  orbiting:           150
   color:              0x68b282
 
 - !!map
-  id:                 151
+  id:                 152
   name:               Spud
   radius:             55280
   mass:               11225120953268507000
@@ -2768,11 +2787,11 @@
     ascNodeLongitude: 299
   meanAnomaly0:       5.61
   epoch:              0
-  orbiting:           149
+  orbiting:           150
   color:              0x937575
 
 - !!map
-  id:                 152
+  id:                 153
   name:               Dres1
   radius:             20000
   mass:               1939495977106213400
@@ -2786,11 +2805,11 @@
     ascNodeLongitude: 8
   meanAnomaly0:       8
   epoch:              2
-  orbiting:           149
+  orbiting:           150
   color:              0xc3fc
 
 - !!map
-  id:                 153
+  id:                 154
   name:               Dres2
   radius:             30000
   mass:               6611918103771183000
@@ -2804,11 +2823,11 @@
     ascNodeLongitude: 5
   meanAnomaly0:       4
   epoch:              3
-  orbiting:           149
+  orbiting:           150
   color:              0xbfbfbf
 
 - !!map
-  id:                 154
+  id:                 155
   name:               Iltan
   radius:             238000
   atmosphereAlt:      65000
@@ -2823,11 +2842,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           147
+  orbiting:           148
   color:              0xb0a178
 
 - !!map
-  id:                 155
+  id:                 156
   name:               Kivlan
   radius:             450000
   atmosphereAlt:      55000
@@ -2842,11 +2861,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           147
+  orbiting:           148
   color:              0x796cc5
 
 - !!map
-  id:                 156
+  id:                 157
   name:               Sennim
   radius:             500000
   atmosphereAlt:      80000
@@ -2861,11 +2880,11 @@
     ascNodeLongitude: 71
   meanAnomaly0:       2
   epoch:              11
-  orbiting:           147
+  orbiting:           148
   color:              0xb2997f
 
 - !!map
-  id:                 157
+  id:                 158
   name:               Zerto
   radius:             50000
   mass:               30598487669118857000
@@ -2879,11 +2898,11 @@
     ascNodeLongitude: 2
   meanAnomaly0:       2
   epoch:              16
-  orbiting:           147
+  orbiting:           148
   color:              0xNaN
 
 - !!map
-  id:                 158
+  id:                 159
   name:               Crysalis
   radius:             35500
   mass:               11110226387036844000
@@ -2897,11 +2916,11 @@
     ascNodeLongitude: 87.5566095113754
   meanAnomaly0:       4.6989336918722
   epoch:              19436.96949342
-  orbiting:           147
+  orbiting:           148
   color:              0x8c5a4a
 
 - !!map
-  id:                 159
+  id:                 160
   name:               Protorin
   radius:             300000
   mass:               4.760581034715252e+21
@@ -2915,11 +2934,11 @@
     ascNodeLongitude: 282.995023727417
   meanAnomaly0:       1.43010667587765
   epoch:              19221.3094934152
-  orbiting:           147
+  orbiting:           148
   color:              0xNaN
 
 - !!map
-  id:                 160
+  id:                 161
   name:               Glacia
   radius:             200000
   mass:               1.7631781610056487e+21
@@ -2933,11 +2952,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           147
+  orbiting:           148
   color:              0x99cccc
 
 - !!map
-  id:                 161
+  id:                 162
   name:               Gratian
   radius:             550000
   atmosphereAlt:      50000
@@ -2956,7 +2975,7 @@
   color:              0x3fbfff
 
 - !!map
-  id:                 162
+  id:                 163
   name:               Geminus
   radius:             230000
   mass:               1.709988953148645e+21
@@ -2970,11 +2989,11 @@
     ascNodeLongitude: 60
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           161
+  orbiting:           162
   color:              0xa5bfa5
 
 - !!map
-  id:                 163
+  id:                 164
   name:               Thalassa
   radius:             1800000
   atmosphereAlt:      150000
@@ -2993,7 +3012,7 @@
   color:              0x7f0a5
 
 - !!map
-  id:                 164
+  id:                 165
   name:               Boris
   radius:             718200
   atmosphereAlt:      32500.0
@@ -3012,7 +3031,7 @@
   color:              0x623056
 
 - !!map
-  id:                 165
+  id:                 166
   name:               Rocky
   radius:             21820
   mass:               1259206478795978500
@@ -3026,11 +3045,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           164
+  orbiting:           165
   color:              0x4c6c69
 
 - !!map
-  id:                 166
+  id:                 167
   name:               Natasha
   radius:             119820
   mass:               86488315608735890000
@@ -3044,11 +3063,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           164
+  orbiting:           165
   color:              0x7fa967
 
 - !!map
-  id:                 167
+  id:                 168
   name:               Bullwinkle
   radius:             89820
   mass:               367470725849791000000
@@ -3062,11 +3081,11 @@
     ascNodeLongitude: 280
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           164
+  orbiting:           165
   color:              0x446186
 
 - !!map
-  id:                 168
+  id:                 169
   name:               Zore
   radius:             34500
   mass:               8569376458392641000
@@ -3084,7 +3103,7 @@
   color:              0xc39176
 
 - !!map
-  id:                 169
+  id:                 170
   name:               Urania
   radius:             8000000
   atmosphereAlt:      400000.0
@@ -3103,7 +3122,7 @@
   color:              0x4c99ff
 
 - !!map
-  id:                 170
+  id:                 171
   name:               Vulcania
   radius:             550000
   atmosphereAlt:      40000
@@ -3118,11 +3137,11 @@
     ascNodeLongitude: 130
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0xff3319
 
 - !!map
-  id:                 171
+  id:                 172
   name:               Hephaistos
   radius:             80000
   mass:               253897655184813400000
@@ -3136,11 +3155,11 @@
     ascNodeLongitude: 351.516795158386
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           170
+  orbiting:           171
   color:              0xcc190
 
 - !!map
-  id:                 172
+  id:                 173
   name:               Ares
   radius:             420000
   atmosphereAlt:      50000
@@ -3155,11 +3174,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0x6600
 
 - !!map
-  id:                 173
+  id:                 174
   name:               Phobos
   radius:             74000
   mass:               225287150892228440000
@@ -3173,11 +3192,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           172
+  orbiting:           173
   color:              0xcc190
 
 - !!map
-  id:                 174
+  id:                 175
   name:               Deimos
   radius:             64000
   mass:               84256407053923270000
@@ -3191,11 +3210,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           172
+  orbiting:           173
   color:              0xcc190
 
 - !!map
-  id:                 175
+  id:                 176
   name:               Themis
   radius:             390000
   atmosphereAlt:      35000
@@ -3210,11 +3229,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0x994c0
 
 - !!map
-  id:                 176
+  id:                 177
   name:               Minos
   radius:             60000
   mass:               148106965524474500000
@@ -3228,11 +3247,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           175
+  orbiting:           176
   color:              0x994c0
 
 - !!map
-  id:                 177
+  id:                 178
   name:               Rhea
   radius:             425000
   atmosphereAlt:      50000
@@ -3247,11 +3266,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0xe5d899
 
 - !!map
-  id:                 178
+  id:                 179
   name:               Lemoni
   radius:             35000
   mass:               43197864944638394000
@@ -3265,11 +3284,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           177
+  orbiting:           178
   color:              0xe5d899
 
 - !!map
-  id:                 179
+  id:                 180
   name:               Hestia
   radius:             485000
   atmosphereAlt:      45000
@@ -3284,11 +3303,11 @@
     ascNodeLongitude: 240
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0x99ff0
 
 - !!map
-  id:                 180
+  id:                 181
   name:               Fragum
   radius:             55000
   mass:               93338243898236530000
@@ -3302,11 +3321,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           179
+  orbiting:           180
   color:              0x99ff0
 
 - !!map
-  id:                 181
+  id:                 182
   name:               Erato
   radius:             550000
   atmosphereAlt:      44000
@@ -3321,11 +3340,11 @@
     ascNodeLongitude: 60
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           169
+  orbiting:           170
   color:              0x4fdbe8
 
 - !!map
-  id:                 182
+  id:                 183
   name:               Eos
   radius:             98200
   mass:               325886044912275400000
@@ -3339,11 +3358,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           181
+  orbiting:           182
   color:              0x4fdbe8
 
 - !!map
-  id:                 183
+  id:                 184
   name:               Crios
   radius:             135000
   mass:               803348049608198700000
@@ -3357,11 +3376,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           181
+  orbiting:           182
   color:              0x4fdbe8
 
 - !!map
-  id:                 184
+  id:                 185
   name:               Chani
   radius:             5500000
   atmosphereAlt:      100000.0
@@ -3380,7 +3399,7 @@
   color:              0x19cc99
 
 - !!map
-  id:                 185
+  id:                 186
   name:               Namo
   radius:             95000
   atmosphereAlt:      10000
@@ -3395,11 +3414,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           184
+  orbiting:           185
   color:              0xff19b2
 
 - !!map
-  id:                 186
+  id:                 187
   name:               Yuil
   radius:             320000
   atmosphereAlt:      35000.0
@@ -3414,11 +3433,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           184
+  orbiting:           185
   color:              0x191919
 
 - !!map
-  id:                 187
+  id:                 188
   name:               Hothive
   radius:             500000
   atmosphereAlt:      155000.0
@@ -3433,11 +3452,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           184
+  orbiting:           185
   color:              0x19cc19
 
 - !!map
-  id:                 188
+  id:                 189
   name:               Rocko
   radius:             220000
   mass:               2.4890198372863076e+21
@@ -3451,11 +3470,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           184
+  orbiting:           185
   color:              0xccff19
 
 - !!map
-  id:                 189
+  id:                 190
   name:               Carta
   radius:             25000
   mass:               183664391771421730
@@ -3469,11 +3488,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           184
+  orbiting:           185
   color:              0xffcc19
 
 - !!map
-  id:                 190
+  id:                 191
   name:               Quazen
   radius:             50000
   mass:               20203083094856393000
@@ -3491,7 +3510,7 @@
   color:              0x728c7f
 
 - !!map
-  id:                 191
+  id:                 192
   name:               Kronkus
   radius:             8600000
   atmosphereAlt:      220000.0
@@ -3510,7 +3529,7 @@
   color:              0xbc35cc
 
 - !!map
-  id:                 192
+  id:                 193
   name:               Eahpeh
   radius:             78000
   mass:               44696566381493190000
@@ -3524,11 +3543,11 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           191
+  orbiting:           192
   color:              0x66db7a
 
 - !!map
-  id:                 193
+  id:                 194
   name:               Kersex
   radius:             437100
   atmosphereAlt:      80000.0
@@ -3543,11 +3562,11 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           191
+  orbiting:           192
   color:              0x4cff
 
 - !!map
-  id:                 194
+  id:                 195
   name:               Meelo
   radius:             280000
   mass:               2.073497517342643e+21
@@ -3561,11 +3580,11 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           191
+  orbiting:           192
   color:              0x9999bf
 
 - !!map
-  id:                 195
+  id:                 196
   name:               Scool
   radius:             160000
   mass:               376144674347871700000
@@ -3579,11 +3598,11 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           191
+  orbiting:           192
   color:              0xbfbf99
 
 - !!map
-  id:                 196
+  id:                 197
   name:               LintMikey
   radius:             550
   mass:               6667017421302.607
@@ -3601,7 +3620,7 @@
   color:              0x3c3c3c
 
 - !!map
-  id:                 197
+  id:                 198
   name:               Rega
   radius:             40000
   mass:               32912659005438775000
@@ -3619,7 +3638,7 @@
   color:              0xcccccc
 
 - !!map
-  id:                 198
+  id:                 199
   name:               Oluum
   radius:             10000000
   atmosphereAlt:      200000
@@ -3638,7 +3657,7 @@
   color:              0x6959cd
 
 - !!map
-  id:                 199
+  id:                 200
   name:               Verdina
   radius:             50000
   mass:               73465756708568695000
@@ -3652,11 +3671,11 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              53
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 200
+  id:                 201
   name:               Tetra
   radius:             102000
   mass:               198727810526946660000
@@ -3670,11 +3689,11 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              120
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 201
+  id:                 202
   name:               Telos
   radius:             459000
   atmosphereAlt:      50000
@@ -3689,11 +3708,11 @@
     ascNodeLongitude: 350
   meanAnomaly0:       0
   epoch:              111
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 202
+  id:                 203
   name:               Teloslate
   radius:             26000
   mass:               8939313276298639000
@@ -3707,11 +3726,11 @@
     ascNodeLongitude: 90
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           201
+  orbiting:           202
   color:              0x68b282
 
 - !!map
-  id:                 203
+  id:                 204
   name:               Volux
   radius:             300000
   atmosphereAlt:      50000
@@ -3726,11 +3745,11 @@
     ascNodeLongitude: 31
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 204
+  id:                 205
   name:               Sheathe
   radius:             300000
   mass:               6.611918103771182e+21
@@ -3744,11 +3763,11 @@
     ascNodeLongitude: 122
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 205
+  id:                 206
   name:               Fume
   radius:             500000
   atmosphereAlt:      80000
@@ -3763,11 +3782,11 @@
     ascNodeLongitude: 220
   meanAnomaly0:       0
   epoch:              129
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 206
+  id:                 207
   name:               Vulcan
   radius:             400000
   mass:               1.7631781610056487e+22
@@ -3781,11 +3800,11 @@
     ascNodeLongitude: 32
   meanAnomaly0:       0
   epoch:              61
-  orbiting:           198
+  orbiting:           199
   color:              0xNaN
 
 - !!map
-  id:                 207
+  id:                 208
   name:               Vulcanoid
   radius:             7000
   mass:               388780784501745540
@@ -3799,11 +3818,11 @@
     ascNodeLongitude: 26
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           206
+  orbiting:           207
   color:              0x0
 
 - !!map
-  id:                 208
+  id:                 209
   name:               Vulkine
   radius:             92500
   atmosphereAlt:      50000
@@ -3818,11 +3837,11 @@
     ascNodeLongitude: 146
   meanAnomaly0:       0
   epoch:              123
-  orbiting:           206
+  orbiting:           207
   color:              0xNaN
 
 - !!map
-  id:                 209
+  id:                 210
   name:               Cerillion
   radius:             300000
   atmosphereAlt:      118000
@@ -3841,7 +3860,7 @@
   color:              0xa1806e
 
 - !!map
-  id:                 210
+  id:                 211
   name:               Mavis
   radius:             70000
   mass:               44637793776126340000
@@ -3855,11 +3874,11 @@
     ascNodeLongitude: 12
   meanAnomaly0:       5.12
   epoch:              0
-  orbiting:           209
+  orbiting:           210
   color:              0x666666
 
 - !!map
-  id:                 211
+  id:                 212
   name:               Disparia
   radius:             200000
   atmosphereAlt:      37000
@@ -3874,11 +3893,11 @@
     ascNodeLongitude: 12
   meanAnomaly0:       2.5
   epoch:              121
-  orbiting:           209
+  orbiting:           210
   color:              0xe5cccc
 
 - !!map
-  id:                 212
+  id:                 213
   name:               Jacob
   radius:             37000
   mass:               7040223465382139000
@@ -3892,11 +3911,11 @@
     ascNodeLongitude: 162.265974283218
   meanAnomaly0:       4.97538991156628
   epoch:              0
-  orbiting:           209
+  orbiting:           210
   color:              0xNaN
 
 - !!map
-  id:                 213
+  id:                 214
   name:               Shirley
   radius:             150000
   mass:               261170765098961700000
@@ -3910,11 +3929,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.141592653589793
   epoch:              0
-  orbiting:           209
+  orbiting:           210
   color:              0xNaN
 
 - !!map
-  id:                 214
+  id:                 215
   name:               Richell
   radius:             450000
   atmosphereAlt:      100000.0
@@ -3933,7 +3952,7 @@
   color:              0xae8162
 
 - !!map
-  id:                 215
+  id:                 216
   name:               Iber
   radius:             35000
   mass:               4319786494463839000
@@ -3947,11 +3966,11 @@
     ascNodeLongitude: 190
   meanAnomaly0:       287
   epoch:              0
-  orbiting:           214
+  orbiting:           215
   color:              0x956849
 
 - !!map
-  id:                 216
+  id:                 217
   name:               Bloze
   radius:             5388436
   atmosphereAlt:      476000
@@ -3970,7 +3989,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 217
+  id:                 218
   name:               Blushi
   radius:             366325
   atmosphereAlt:      50000
@@ -3985,11 +4004,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           216
+  orbiting:           217
   color:              0xNaN
 
 - !!map
-  id:                 218
+  id:                 219
   name:               Kirus
   radius:             2121000
   atmosphereAlt:      200000
@@ -4008,24 +4027,6 @@
   color:              0x7fb2cc
 
 - !!map
-  id:                 219
-  name:               Valeon
-  radius:             75000
-  mass:               103311220371424720000
-  stdGravParam:       6895300781.25
-  soi:                272642.6581321065
-  orbit:
-    semiMajorAxis:    10416000
-    eccentricity:     0.03
-    inclination:      3.1
-    argOfPeriapsis:   0
-    ascNodeLongitude: 0
-  meanAnomaly0:       0
-  epoch:              0
-  orbiting:           218
-  color:              0x96af3d
-
-- !!map
   id:                 220
   name:               Hydros
   radius:             293000
@@ -4041,7 +4042,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           218
+  orbiting:           219
   color:              0x1c1db2
 
 - !!map
@@ -4060,7 +4061,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           218
+  orbiting:           219
   color:              0xffffff
 
 - !!map
@@ -6037,6 +6038,42 @@
 
 - !!map
   id:                 330
+  name:               Elrond
+  radius:             155000
+  mass:               194363430318160700000
+  stdGravParam:       12972398429.724998
+  soi:                899952.6285702875
+  orbit:
+    semiMajorAxis:    41772390
+    eccentricity:     0.01076
+    inclination:      2.6
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           328
+  color:              0xff9933
+
+- !!map
+  id:                 331
+  name:               Galadriel
+  radius:             115000
+  mass:               106990899727686800000
+  stdGravParam:       7140893620.525
+  soi:                1116006.8563557528
+  orbit:
+    semiMajorAxis:    65772390
+    eccentricity:     0.01076
+    inclination:      2.6
+    argOfPeriapsis:   200
+    ascNodeLongitude: 20
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           328
+  color:              0xcce5e5
+
+- !!map
+  id:                 332
   name:               Miranda
   radius:             562000
   mass:               3.805409827745232e+22
@@ -6054,7 +6091,7 @@
   color:              0x33ff
 
 - !!map
-  id:                 331
+  id:                 333
   name:               Puck
   radius:             77000
   mass:               26134708291506230000
@@ -6068,11 +6105,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       2.718
   epoch:              0
-  orbiting:           330
+  orbiting:           332
   color:              0xff4c
 
 - !!map
-  id:                 332
+  id:                 334
   name:               Umbriel
   radius:             206000
   mass:               1.2470371406739284e+21
@@ -6086,11 +6123,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           330
+  orbiting:           332
   color:              0x996619
 
 - !!map
-  id:                 333
+  id:                 335
   name:               Titania
   radius:             388000
   mass:               1.238700834328694e+22
@@ -6104,11 +6141,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           330
+  orbiting:           332
   color:              0xff0ff
 
 - !!map
-  id:                 334
+  id:                 336
   name:               Oberon
   radius:             25000
   mass:               918321958857108700
@@ -6122,11 +6159,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.77
   epoch:              0
-  orbiting:           333
+  orbiting:           335
   color:              0x33ff33
 
 - !!map
-  id:                 335
+  id:                 337
   name:               Caliban
   radius:             317000
   mass:               6.644250383298623e+21
@@ -6140,11 +6177,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           330
+  orbiting:           332
   color:              0x4c00
 
 - !!map
-  id:                 336
+  id:                 338
   name:               Ariel
   radius:             102000
   mass:               122294037247351780000
@@ -6158,11 +6195,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.9
   epoch:              0
-  orbiting:           330
+  orbiting:           332
   color:              0x4cff0
 
 - !!map
-  id:                 337
+  id:                 339
   name:               Barney
   radius:             600000
   mass:               4.233073131264702e+22
@@ -6180,7 +6217,7 @@
   color:              0x937575
 
 - !!map
-  id:                 338
+  id:                 340
   name:               Slade
   radius:             60000
   mass:               26456707070404390000
@@ -6194,11 +6231,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3
   epoch:              0
-  orbiting:           337
+  orbiting:           339
   color:              0x5b4c68
 
 - !!map
-  id:                 339
+  id:                 341
   name:               Joker
   radius:             60000
   mass:               26456707070404390000
@@ -6212,11 +6249,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           337
+  orbiting:           339
   color:              0x5b4c68
 
 - !!map
-  id:                 340
+  id:                 342
   name:               Crokslev
   radius:             32500
   mass:               3879910276171284000
@@ -6234,7 +6271,7 @@
   color:              0x808080
 
 - !!map
-  id:                 341
+  id:                 343
   name:               Urlum
   radius:             2177000
   atmosphereAlt:      325000.0
@@ -6253,7 +6290,7 @@
   color:              0x48d1cc
 
 - !!map
-  id:                 342
+  id:                 344
   name:               Priax
   radius:             74000
   mass:               50689608950751390000
@@ -6267,11 +6304,11 @@
     ascNodeLongitude: 40
   meanAnomaly0:       1.5209
   epoch:              878.1399
-  orbiting:           341
+  orbiting:           343
   color:              0x6b6a66
 
 - !!map
-  id:                 343
+  id:                 345
   name:               Polta
   radius:             220000
   mass:               1.3511821973839953e+21
@@ -6285,11 +6322,11 @@
     ascNodeLongitude: 40
   meanAnomaly0:       1.5209
   epoch:              878.1399
-  orbiting:           341
+  orbiting:           343
   color:              0x7a9f93
 
 - !!map
-  id:                 344
+  id:                 346
   name:               Wal
   radius:             370000
   mass:               7.44252194911826e+21
@@ -6303,11 +6340,11 @@
     ascNodeLongitude: 40
   meanAnomaly0:       2.9615
   epoch:              1078.179
-  orbiting:           341
+  orbiting:           343
   color:              0xb89963
 
 - !!map
-  id:                 345
+  id:                 347
   name:               Tal
   radius:             22000
   mass:               3200168362225252400
@@ -6321,11 +6358,11 @@
     ascNodeLongitude: 40
   meanAnomaly0:       0
   epoch:              1179.579
-  orbiting:           344
+  orbiting:           346
   color:              0x665b4a
 
 - !!map
-  id:                 346
+  id:                 348
   name:               Parvus
   radius:             7918453
   atmosphereAlt:      77000.0
@@ -6344,7 +6381,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 347
+  id:                 349
   name:               Putto
   radius:             122000
   mass:               320166353730578500000
@@ -6362,7 +6399,7 @@
   color:              0xe8c246
 
 - !!map
-  id:                 348
+  id:                 350
   name:               Dhar
   radius:             8000
   mass:               143875337938060900
@@ -6376,11 +6413,11 @@
     ascNodeLongitude: 164
   meanAnomaly0:       1.1
   epoch:              0
-  orbiting:           347
+  orbiting:           349
   color:              0x4a4236
 
 - !!map
-  id:                 349
+  id:                 351
   name:               Rheis
   radius:             27000
   mass:               3502597496291746300
@@ -6394,11 +6431,67 @@
     ascNodeLongitude: 166
   meanAnomaly0:       2.1
   epoch:              0
-  orbiting:           347
+  orbiting:           349
   color:              0x77582a
 
 - !!map
-  id:                 350
+  id:                 352
+  name:               Luune
+  radius:             1500000
+  atmosphereAlt:      200000
+  mass:               3.405137823442159e+23
+  stdGravParam:       22726911375000
+  soi:                3371126155.029168
+  orbit:
+    semiMajorAxis:    267500000000
+    eccentricity:     0.045214674
+    inclination:      -0.64
+    argOfPeriapsis:   70
+    ascNodeLongitude: 236
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           0
+  color:              0x2d99a5
+
+- !!map
+  id:                 353
+  name:               Manwe
+  radius:             375000
+  atmosphereAlt:      50000
+  mass:               3.099336611142742e+22
+  stdGravParam:       2068590234375
+  soi:                4792516.686657766
+  orbit:
+    semiMajorAxis:    12500000
+    eccentricity:     0.0227364
+    inclination:      -0.2
+    argOfPeriapsis:   0
+    ascNodeLongitude: 61
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           352
+  color:              0xcc33c
+
+- !!map
+  id:                 354
+  name:               Bannon
+  radius:             115000
+  mass:               106990899727686800000
+  stdGravParam:       7140893620.525
+  soi:                507174.0554595917
+  orbit:
+    semiMajorAxis:    12772390
+    eccentricity:     0.01076
+    inclination:      2.6
+    argOfPeriapsis:   200
+    ascNodeLongitude: 20
+  meanAnomaly0:       0
+  epoch:              0
+  orbiting:           352
+  color:              0x666666
+
+- !!map
+  id:                 355
   name:               Nero
   radius:             5000000
   atmosphereAlt:      560000
@@ -6417,7 +6510,7 @@
   color:              0xff990
 
 - !!map
-  id:                 351
+  id:                 356
   name:               Hadrian
   radius:             300000
   atmosphereAlt:      80000
@@ -6432,11 +6525,11 @@
     ascNodeLongitude: 357
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0x7f7fff
 
 - !!map
-  id:                 352
+  id:                 357
   name:               Narisse
   radius:             90000
   mass:               47605810347152515000
@@ -6450,11 +6543,11 @@
     ascNodeLongitude: 3
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0x7fe57f
 
 - !!map
-  id:                 353
+  id:                 358
   name:               Muse
   radius:             130000
   mass:               198651406139969770000
@@ -6468,11 +6561,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0xffa5a5
 
 - !!map
-  id:                 354
+  id:                 359
   name:               Minona
   radius:             120000
   mass:               126948827592406700000
@@ -6486,11 +6579,11 @@
     ascNodeLongitude: 6
   meanAnomaly0:       4.71
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0x7fa5cc
 
 - !!map
-  id:                 355
+  id:                 360
   name:               Agrippina
   radius:             50000
   mass:               11019863506285304000
@@ -6504,11 +6597,11 @@
     ascNodeLongitude: 150
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0xe5cc4c
 
 - !!map
-  id:                 356
+  id:                 361
   name:               Julia
   radius:             30000
   mass:               1983575431131354600
@@ -6522,11 +6615,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           350
+  orbiting:           355
   color:              0xcc99cc
 
 - !!map
-  id:                 357
+  id:                 362
   name:               Deturpant
   radius:             9285000
   mass:               2.8627749423917483e+25
@@ -6544,7 +6637,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 358
+  id:                 363
   name:               DET14
   radius:             69
   mass:               29380719285.917625
@@ -6558,11 +6651,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 359
+  id:                 364
   name:               DET01
   radius:             13000
   mass:               248314257674962180
@@ -6576,11 +6669,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 360
+  id:                 365
   name:               DET09
   radius:             8000
   mass:               3761446743478717400
@@ -6594,11 +6687,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 361
+  id:                 366
   name:               DET13
   radius:             312000
   mass:               5.520919879442039e+21
@@ -6612,11 +6705,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 362
+  id:                 367
   name:               DET08
   radius:             16000
   mass:               789903816130530600
@@ -6630,11 +6723,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 363
+  id:                 368
   name:               DET11
   radius:             11000
   mass:               888935656173681300
@@ -6648,11 +6741,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 364
+  id:                 369
   name:               DET02
   radius:             9000
   mass:               190423241388610050
@@ -6666,11 +6759,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 365
+  id:                 370
   name:               DET04
   radius:             5000
   mass:               18366439177142172
@@ -6684,11 +6777,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 366
+  id:                 371
   name:               DET12
   radius:             68000
   mass:               71745835185113040000
@@ -6702,11 +6795,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 367
+  id:                 372
   name:               DET07
   radius:             22000
   mass:               6684796134426082000
@@ -6720,11 +6813,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 368
+  id:                 373
   name:               DET03
   radius:             2764
   mass:               112251209532685.1
@@ -6738,11 +6831,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 369
+  id:                 374
   name:               DET05
   radius:             7366
   mass:               75337323925504260
@@ -6756,11 +6849,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 370
+  id:                 375
   name:               DET06
   radius:             984
   mass:               10726955886923.873
@@ -6774,11 +6867,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 371
+  id:                 376
   name:               DET10
   radius:             13000
   mass:               2068457766432435200
@@ -6792,11 +6885,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           357
+  orbiting:           362
   color:              0xNaN
 
 - !!map
-  id:                 372
+  id:                 377
   name:               Oorma
   radius:             89000
   mass:               150135942793251720000
@@ -6814,7 +6907,7 @@
   color:              0x7c6214
 
 - !!map
-  id:                 373
+  id:                 378
   name:               Phoe
   radius:             18000
   mass:               923552720734758700
@@ -6828,11 +6921,11 @@
     ascNodeLongitude: 176
   meanAnomaly0:       4.4
   epoch:              0
-  orbiting:           372
+  orbiting:           377
   color:              0x6a2d0
 
 - !!map
-  id:                 374
+  id:                 379
   name:               Corolet
   radius:             6000
   mass:               528953448301694600
@@ -6850,7 +6943,7 @@
   color:              0x264789
 
 - !!map
-  id:                 375
+  id:                 380
   name:               Arane
   radius:             93000
   mass:               101791933829540180000
@@ -6868,7 +6961,7 @@
   color:              0x8021d
 
 - !!map
-  id:                 376
+  id:                 381
   name:               Nuu
   radius:             4000
   mass:               106025780081806340
@@ -6882,11 +6975,11 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.2
   epoch:              0
-  orbiting:           375
+  orbiting:           380
   color:              0x5e3557
 
 - !!map
-  id:                 377
+  id:                 382
   name:               Sendemia
   radius:             550000
   mass:               4.978039674572616e+22
@@ -6904,7 +6997,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 378
+  id:                 383
   name:               Magnone
   radius:             136000
   mass:               271764527216337320000
@@ -6918,11 +7011,11 @@
     ascNodeLongitude: 14
   meanAnomaly0:       2
   epoch:              0
-  orbiting:           377
+  orbiting:           382
   color:              0xNaN
 
 - !!map
-  id:                 379
+  id:                 384
   name:               Beppy
   radius:             380000
   mass:               1.4851837376204248e+22
@@ -6936,11 +7029,11 @@
     ascNodeLongitude: 83
   meanAnomaly0:       1.5
   epoch:              100
-  orbiting:           377
+  orbiting:           382
   color:              0xNaN
 
 - !!map
-  id:                 380
+  id:                 385
   name:               Abagotia
   radius:             7000
   mass:               30238505461246870
@@ -6954,11 +7047,11 @@
     ascNodeLongitude: 4
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           377
+  orbiting:           382
   color:              0xNaN
 
 - !!map
-  id:                 381
+  id:                 386
   name:               Neidon
   radius:             2145000
   atmosphereAlt:      260000.0
@@ -6977,7 +7070,7 @@
   color:              0x6959cd
 
 - !!map
-  id:                 382
+  id:                 387
   name:               Thatmo
   radius:             286000
   atmosphereAlt:      35000.0
@@ -6992,11 +7085,11 @@
     ascNodeLongitude: 66
   meanAnomaly0:       2.04731106758118
   epoch:              1953406.32967385
-  orbiting:           381
+  orbiting:           386
   color:              0xe6e6f9
 
 - !!map
-  id:                 383
+  id:                 388
   name:               Froth
   radius:             45000
   atmosphereAlt:      10000
@@ -7011,11 +7104,11 @@
     ascNodeLongitude: 25
   meanAnomaly0:       0.35
   epoch:              0
-  orbiting:           381
+  orbiting:           386
   color:              0xffffff
 
 - !!map
-  id:                 384
+  id:                 389
   name:               Nissee
   radius:             30000
   mass:               5950726293394064000
@@ -7029,11 +7122,11 @@
     ascNodeLongitude: 66
   meanAnomaly0:       2.04731106758118
   epoch:              1953406.32967385
-  orbiting:           381
+  orbiting:           386
   color:              0xd1b38c
 
 - !!map
-  id:                 385
+  id:                 390
   name:               Hox
   radius:             250000
   atmosphereAlt:      40000
@@ -7052,7 +7145,7 @@
   color:              0x7fbfbf
 
 - !!map
-  id:                 386
+  id:                 391
   name:               Argo
   radius:             80000
   mass:               32912659005438775000
@@ -7066,11 +7159,11 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           385
+  orbiting:           390
   color:              0xcccc66
 
 - !!map
-  id:                 387
+  id:                 392
   name:               Flo
   radius:             106000
   mass:               149243392621848000000
@@ -7088,7 +7181,7 @@
   color:              0xa1b0b0
 
 - !!map
-  id:                 388
+  id:                 393
   name:               Es
   radius:             14000
   mass:               308144769938420500
@@ -7102,11 +7195,11 @@
     ascNodeLongitude: 294
   meanAnomaly0:       5.2
   epoch:              0
-  orbiting:           387
+  orbiting:           392
   color:              0x2c3d63
 
 - !!map
-  id:                 389
+  id:                 394
   name:               Keelon
   radius:             800000
   atmosphereAlt:      115000.0
@@ -7125,7 +7218,7 @@
   color:              0xa57a33
 
 - !!map
-  id:                 390
+  id:                 395
   name:               Manai
   radius:             150000
   atmosphereAlt:      45000
@@ -7140,11 +7233,11 @@
     ascNodeLongitude: 89
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           389
+  orbiting:           394
   color:              0xbf667f
 
 - !!map
-  id:                 391
+  id:                 396
   name:               Revus
   radius:             200000
   mass:               2.938630268342748e+21
@@ -7158,11 +7251,11 @@
     ascNodeLongitude: 89
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           389
+  orbiting:           394
   color:              0x3366b2
 
 - !!map
-  id:                 392
+  id:                 397
   name:               Plock
   radius:             189000
   mass:               776784007434487600000
@@ -7180,7 +7273,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 393
+  id:                 398
   name:               Karen
   radius:             85050
   mass:               70146744995688686000
@@ -7194,11 +7287,11 @@
     ascNodeLongitude: 260
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           392
+  orbiting:           397
   color:              0xNaN
 
 - !!map
-  id:                 394
+  id:                 399
   name:               Leto
   radius:             210000
   atmosphereAlt:      35000
@@ -7217,7 +7310,7 @@
   color:              0xa5a5a5
 
 - !!map
-  id:                 395
+  id:                 400
   name:               Havous
   radius:             116666
   mass:               285982596742195800000
@@ -7235,7 +7328,7 @@
   color:              0xcae8e3
 
 - !!map
-  id:                 396
+  id:                 401
   name:               Kal
   radius:             3000
   mass:               1124026077641100.8
@@ -7249,11 +7342,11 @@
     ascNodeLongitude: 245
   meanAnomaly0:       12
   epoch:              6
-  orbiting:           395
+  orbiting:           400
   color:              0x333333
 
 - !!map
-  id:                 397
+  id:                 402
   name:               KiKi
   radius:             5320
   mass:               6653623144539503
@@ -7267,11 +7360,11 @@
     ascNodeLongitude: 256
   meanAnomaly0:       85
   epoch:              6
-  orbiting:           395
+  orbiting:           400
   color:              0x544040
 
 - !!map
-  id:                 398
+  id:                 403
   name:               Mracksis
   radius:             71500
   mass:               90889226165478030000
@@ -7289,7 +7382,7 @@
   color:              0xbc495
 
 - !!map
-  id:                 399
+  id:                 404
   name:               FlakeMPE
   radius:             2000
   mass:               176317816100564.88
@@ -7303,11 +7396,11 @@
     ascNodeLongitude: 12
   meanAnomaly0:       45
   epoch:              6
-  orbiting:           398
+  orbiting:           403
   color:              0xb2cbce
 
 - !!map
-  id:                 400
+  id:                 405
   name:               Badires
   radius:             228000
   mass:               1.0364885135747568e+21
@@ -7325,7 +7418,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 401
+  id:                 406
   name:               Miporia
   radius:             8300000
   atmosphereAlt:      200000
@@ -7344,7 +7437,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 402
+  id:                 407
   name:               Vitoraj
   radius:             350000
   mass:               1.4903263405900246e+22
@@ -7358,11 +7451,11 @@
     ascNodeLongitude: 0.0001
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           401
+  orbiting:           406
   color:              0xNaN
 
 - !!map
-  id:                 403
+  id:                 408
   name:               Razarius
   radius:             320000
   mass:               1.582816789655844e+22
@@ -7376,11 +7469,11 @@
     ascNodeLongitude: 91.482821
   meanAnomaly0:       3.5
   epoch:              0
-  orbiting:           401
+  orbiting:           406
   color:              0xNaN
 
 - !!map
-  id:                 404
+  id:                 409
   name:               Haro
   radius:             75000
   mass:               249104014559579280000
@@ -7394,11 +7487,11 @@
     ascNodeLongitude: 248.482821
   meanAnomaly0:       1.4
   epoch:              0
-  orbiting:           401
+  orbiting:           406
   color:              0xNaN
 
 - !!map
-  id:                 405
+  id:                 410
   name:               Plod II
   radius:             107696
   mass:               178938337244437220000
@@ -7416,7 +7509,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 406
+  id:                 411
   name:               Reast
   radius:             69000
   mass:               34977046768949555000
@@ -7430,11 +7523,11 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           405
+  orbiting:           410
   color:              0xNaN
 
 - !!map
-  id:                 407
+  id:                 412
   name:               Bord
   radius:             22000
   mass:               1564526754865678800
@@ -7448,11 +7541,11 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           406
+  orbiting:           411
   color:              0xee00
 
 - !!map
-  id:                 408
+  id:                 413
   name:               Ervo
   radius:             192000
   atmosphereAlt:      10000
@@ -7471,7 +7564,7 @@
   color:              0x77726d
 
 - !!map
-  id:                 409
+  id:                 414
   name:               Archae
   radius:             55000
   mass:               26668069685210436000
@@ -7485,11 +7578,11 @@
     ascNodeLongitude: 130
   meanAnomaly0:       25
   epoch:              6
-  orbiting:           408
+  orbiting:           413
   color:              0x353335
 
 - !!map
-  id:                 410
+  id:                 415
   name:               Plod
   radius:             105000
   mass:               242987990313590950000
@@ -7507,7 +7600,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 411
+  id:                 416
   name:               Tebos
   radius:             10000
   mass:               352635632201129700
@@ -7521,11 +7614,11 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           410
+  orbiting:           415
   color:              0xNaN
 
 - !!map
-  id:                 412
+  id:                 417
   name:               End
   radius:             2160000
   atmosphereAlt:      350000
@@ -7544,7 +7637,7 @@
   color:              0x191b4c
 
 - !!map
-  id:                 413
+  id:                 418
   name:               Derg
   radius:             43000
   mass:               10323701995714906000
@@ -7558,11 +7651,11 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           412
+  orbiting:           417
   color:              0xc2319
 
 - !!map
-  id:                 414
+  id:                 419
   name:               Friz
   radius:             63000
   mass:               36156612958662332000
@@ -7576,11 +7669,11 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           412
+  orbiting:           417
   color:              0x337f66
 
 - !!map
-  id:                 415
+  id:                 420
   name:               Erkers
   radius:             105700
   mass:               92914042921521360000
@@ -7594,11 +7687,11 @@
     ascNodeLongitude: 50
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           412
+  orbiting:           417
   color:              0x33195
 
 - !!map
-  id:                 416
+  id:                 421
   name:               ErkersSubsatellite1
   radius:             7600
   mass:               35644409702890188
@@ -7612,11 +7705,11 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           415
+  orbiting:           420
   color:              0x6a6a6a
 
 - !!map
-  id:                 417
+  id:                 422
   name:               Grannus
   radius:             30170000
   atmosphereAlt:      300000
@@ -7635,7 +7728,7 @@
   color:              0xcc00
 
 - !!map
-  id:                 418
+  id:                 423
   name:               Taranis
   radius:             200000
   mass:               1.1754521073370991e+21
@@ -7649,11 +7742,11 @@
     ascNodeLongitude: 140
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0xff990
 
 - !!map
-  id:                 419
+  id:                 424
   name:               Toutatis
   radius:             350000
   atmosphereAlt:      65000
@@ -7668,11 +7761,11 @@
     ascNodeLongitude: 160
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0xcc6666
 
 - !!map
-  id:                 420
+  id:                 425
   name:               Nodens
   radius:             700000
   atmosphereAlt:      70000
@@ -7687,11 +7780,11 @@
     ascNodeLongitude: 155
   meanAnomaly0:       0.70365916
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0x3fbfff
 
 - !!map
-  id:                 421
+  id:                 426
   name:               Belisama
   radius:             250000
   mass:               2.479469288914193e+21
@@ -7705,11 +7798,11 @@
     ascNodeLongitude: 135
   meanAnomaly0:       1.81138176
   epoch:              0
-  orbiting:           420
+  orbiting:           425
   color:              0xa5a5a5
 
 - !!map
-  id:                 422
+  id:                 427
   name:               Sucellus
   radius:             150000
   mass:               462834267263982800000
@@ -7723,11 +7816,11 @@
     ascNodeLongitude: 170
   meanAnomaly0:       4
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0xb2997f
 
 - !!map
-  id:                 423
+  id:                 428
   name:               Caireen
   radius:             30000
   mass:               2644767241508473000
@@ -7741,11 +7834,11 @@
     ascNodeLongitude: 195
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           422
+  orbiting:           427
   color:              0x7fb299
 
 - !!map
-  id:                 424
+  id:                 429
   name:               Sirona
   radius:             3000000
   atmosphereAlt:      320000
@@ -7760,11 +7853,11 @@
     ascNodeLongitude: 150
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0x3fcc3f
 
 - !!map
-  id:                 425
+  id:                 430
   name:               Airmed
   radius:             160000
   mass:               564217011521807600000
@@ -7778,11 +7871,11 @@
     ascNodeLongitude: 120
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           424
+  orbiting:           429
   color:              0xffbf7f
 
 - !!map
-  id:                 426
+  id:                 431
   name:               Brovo
   radius:             300000
   atmosphereAlt:      65000
@@ -7797,11 +7890,11 @@
     ascNodeLongitude: 150
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           424
+  orbiting:           429
   color:              0xff7f7f
 
 - !!map
-  id:                 427
+  id:                 432
   name:               Damona
   radius:             80000
   mass:               56421701152180760000
@@ -7815,11 +7908,11 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           424
+  orbiting:           429
   color:              0x7fbfbf
 
 - !!map
-  id:                 428
+  id:                 433
   name:               Epona
   radius:             500000
   atmosphereAlt:      45000
@@ -7834,11 +7927,11 @@
     ascNodeLongitude: 145
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0xff3fff
 
 - !!map
-  id:                 429
+  id:                 434
   name:               Rosmerta
   radius:             50000
   mass:               11019863506285304000
@@ -7852,11 +7945,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           428
+  orbiting:           433
   color:              0xe5bf99
 
 - !!map
-  id:                 430
+  id:                 435
   name:               RAB58E
   radius:             10000
   mass:               132238362075423650
@@ -7870,11 +7963,11 @@
     ascNodeLongitude: 225
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           428
+  orbiting:           433
   color:              0x7f7f7f
 
 - !!map
-  id:                 431
+  id:                 436
   name:               Cernunnos
   radius:             120000
   mass:               148106965524474500000
@@ -7888,11 +7981,11 @@
     ascNodeLongitude: 120
   meanAnomaly0:       0.5
   epoch:              0
-  orbiting:           417
+  orbiting:           422
   color:              0xffcc3f
 
 - !!map
-  id:                 432
+  id:                 437
   name:               Gonia
   radius:             325000
   mass:               3.9711657658668323e+21
@@ -7910,7 +8003,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 433
+  id:                 438
   name:               Ollin
   radius:             35000
   mass:               15299243834559429000
@@ -7924,11 +8017,11 @@
     ascNodeLongitude: 80
   meanAnomaly0:       1.668
   epoch:              125000
-  orbiting:           432
+  orbiting:           437
   color:              0xNaN
 
 - !!map
-  id:                 434
+  id:                 439
   name:               Olloa
   radius:             12500
   mass:               870110056017110700
@@ -7942,11 +8035,11 @@
     ascNodeLongitude: 28.1
   meanAnomaly0:       1.33045
   epoch:              125000
-  orbiting:           432
+  orbiting:           437
   color:              0xNaN
 
 - !!map
-  id:                 435
+  id:                 440
   name:               Fecuria
   radius:             127600
   mass:               212077717499357270000
@@ -7964,7 +8057,7 @@
   color:              0xNaN
 
 - !!map
-  id:                 436
+  id:                 441
   name:               Soden
   radius:             61000
   mass:               54673216142516820000
@@ -7982,7 +8075,7 @@
   color:              0xe9e0eb
 
 - !!map
-  id:                 437
+  id:                 442
   name:               Lon
   radius:             5000
   mass:               7346575670856870
@@ -7996,11 +8089,11 @@
     ascNodeLongitude: 124
   meanAnomaly0:       123
   epoch:              6
-  orbiting:           436
+  orbiting:           441
   color:              0xcfc9a8
 
 - !!map
-  id:                 438
+  id:                 443
   name:               Dawn
   radius:             422802240
   atmosphereAlt:      2000000
@@ -8019,7 +8112,7 @@
   color:              0x99ff
 
 - !!map
-  id:                 439
+  id:                 444
   name:               Tengu
   radius:             144000
   mass:               389986798363873400000
@@ -8033,11 +8126,11 @@
     ascNodeLongitude: 96
   meanAnomaly0:       3.14
   epoch:              4
-  orbiting:           438
+  orbiting:           443
   color:              0xff7a0
 
 - !!map
-  id:                 440
+  id:                 445
   name:               Hyperion
   radius:             216000
   atmosphereAlt:      36000
@@ -8052,11 +8145,11 @@
     ascNodeLongitude: 168
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xeffac
 
 - !!map
-  id:                 441
+  id:                 446
   name:               Horu
   radius:             1200000
   atmosphereAlt:      92000
@@ -8071,11 +8164,11 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xff3354
 
 - !!map
-  id:                 442
+  id:                 447
   name:               Keter
   radius:             200000
   atmosphereAlt:      30000
@@ -8090,11 +8183,11 @@
     ascNodeLongitude: 12
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           441
+  orbiting:           446
   color:              0x9b5a0
 
 - !!map
-  id:                 443
+  id:                 448
   name:               Summit
   radius:             576000
   atmosphereAlt:      40000
@@ -8109,11 +8202,11 @@
     ascNodeLongitude: 212
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0x8809c
 
 - !!map
-  id:                 444
+  id:                 449
   name:               Gersemi
   radius:             680000
   atmosphereAlt:      60000
@@ -8128,11 +8221,11 @@
     ascNodeLongitude: 276
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xffeb80
 
 - !!map
-  id:                 445
+  id:                 450
   name:               Icosahedron
   radius:             24000
   mass:               1946548689750236000
@@ -8146,11 +8239,11 @@
     ascNodeLongitude: 187
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           444
+  orbiting:           449
   color:              0xff7b9f
 
 - !!map
-  id:                 446
+  id:                 451
   name:               Faith
   radius:             400000
   atmosphereAlt:      60000
@@ -8165,11 +8258,11 @@
     ascNodeLongitude: 43
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           444
+  orbiting:           449
   color:              0x66ff
 
 - !!map
-  id:                 447
+  id:                 452
   name:               Paradise
   radius:             1000000
   atmosphereAlt:      100000
@@ -8184,11 +8277,11 @@
     ascNodeLongitude: 128
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xb2ff
 
 - !!map
-  id:                 448
+  id:                 453
   name:               Fantasy
   radius:             211400
   atmosphereAlt:      42000
@@ -8203,11 +8296,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           447
+  orbiting:           452
   color:              0x228bff
 
 - !!map
-  id:                 449
+  id:                 454
   name:               Bahamut
   radius:             526000
   atmosphereAlt:      75000
@@ -8222,11 +8315,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           447
+  orbiting:           452
   color:              0x683dff
 
 - !!map
-  id:                 450
+  id:                 455
   name:               Asgard
   radius:             84000
   atmosphereAlt:      21000
@@ -8241,11 +8334,11 @@
     ascNodeLongitude: 42
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           449
+  orbiting:           454
   color:              0x35ff6a
 
 - !!map
-  id:                 451
+  id:                 456
   name:               Heimdallr
   radius:             420000
   atmosphereAlt:      50000
@@ -8260,11 +8353,11 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           447
+  orbiting:           452
   color:              0x8b16ff
 
 - !!map
-  id:                 452
+  id:                 457
   name:               Horizon
   radius:             500000
   atmosphereAlt:      32000
@@ -8279,11 +8372,11 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           447
+  orbiting:           452
   color:              0xc52499
 
 - !!map
-  id:                 453
+  id:                 458
   name:               Vindication
   radius:             96000
   mass:               162494499318280600000
@@ -8297,11 +8390,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           452
+  orbiting:           457
   color:              0xf33047
 
 - !!map
-  id:                 454
+  id:                 459
   name:               Hikari
   radius:             7500000
   atmosphereAlt:      500000
@@ -8316,11 +8409,11 @@
     ascNodeLongitude: 192
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xff798f
 
 - !!map
-  id:                 455
+  id:                 460
   name:               Moun
   radius:             25500
   mass:               4394941963576704500
@@ -8334,11 +8427,11 @@
     ascNodeLongitude: 72
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0xffcc9d
 
 - !!map
-  id:                 456
+  id:                 461
   name:               Mirage
   radius:             300000
   atmosphereAlt:      30000
@@ -8353,11 +8446,11 @@
     ascNodeLongitude: 243
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0xffdd0
 
 - !!map
-  id:                 457
+  id:                 462
   name:               Yggdrasil
   radius:             900000
   atmosphereAlt:      50000
@@ -8372,11 +8465,11 @@
     ascNodeLongitude: 16
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0x2cf380
 
 - !!map
-  id:                 458
+  id:                 463
   name:               Sandalphon
   radius:             422100
   atmosphereAlt:      60000
@@ -8391,11 +8484,11 @@
     ascNodeLongitude: 45
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0x7becff
 
 - !!map
-  id:                 459
+  id:                 464
   name:               Baldr
   radius:             36000
   mass:               13329626897202706000
@@ -8409,11 +8502,11 @@
     ascNodeLongitude: 162
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           458
+  orbiting:           463
   color:              0xdddddd
 
 - !!map
-  id:                 460
+  id:                 465
   name:               Ebott
   radius:             500000
   mass:               2.938630268342748e+22
@@ -8427,11 +8520,11 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0x7bbb
 
 - !!map
-  id:                 461
+  id:                 466
   name:               Zhuque
   radius:             320000
   atmosphereAlt:      24000
@@ -8446,11 +8539,11 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0xff4875
 
 - !!map
-  id:                 462
+  id:                 467
   name:               Basin
   radius:             288000
   atmosphereAlt:      72000
@@ -8465,11 +8558,11 @@
     ascNodeLongitude: 173
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           454
+  orbiting:           459
   color:              0x46085
 
 - !!map
-  id:                 463
+  id:                 468
   name:               Cerberus
   radius:             20000
   mass:               1175452107337099000
@@ -8483,11 +8576,11 @@
     ascNodeLongitude: 240
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           462
+  orbiting:           467
   color:              0xa8ad
 
 - !!map
-  id:                 464
+  id:                 469
   name:               Wyvern
   radius:             314000
   mass:               3.6217148742190194e+21
@@ -8501,11 +8594,11 @@
     ascNodeLongitude: 172
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xcccccc
 
 - !!map
-  id:                 465
+  id:                 470
   name:               Sentry
   radius:             80000
   mass:               75228934869574340000
@@ -8519,11 +8612,11 @@
     ascNodeLongitude: 241
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           464
+  orbiting:           469
   color:              0xedca75
 
 - !!map
-  id:                 466
+  id:                 471
   name:               Kaze
   radius:             5000000
   atmosphereAlt:      250000
@@ -8538,11 +8631,11 @@
     ascNodeLongitude: 198
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0x13e48b
 
 - !!map
-  id:                 467
+  id:                 472
   name:               Ve
   radius:             21000
   mass:               1231139150922194200
@@ -8556,11 +8649,11 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           466
+  orbiting:           471
   color:              0xffcc99
 
 - !!map
-  id:                 468
+  id:                 473
   name:               Baihu
   radius:             800000
   mass:               1.3165063602175508e+23
@@ -8574,11 +8667,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           466
+  orbiting:           471
   color:              0xffcc99
 
 - !!map
-  id:                 469
+  id:                 474
   name:               Epik
   radius:             450000
   atmosphereAlt:      40000
@@ -8593,11 +8686,11 @@
     ascNodeLongitude: 275
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           466
+  orbiting:           471
   color:              0xff5f6c
 
 - !!map
-  id:                 470
+  id:                 475
   name:               Ouroboros
   radius:             640000
   mass:               7.703442930644412e+22
@@ -8611,11 +8704,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           466
+  orbiting:           471
   color:              0xffff99
 
 - !!map
-  id:                 471
+  id:                 476
   name:               Bi
   radius:             16000
   mass:               601831478956594700
@@ -8629,11 +8722,11 @@
     ascNodeLongitude: 269
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           470
+  orbiting:           475
   color:              0xb1eb8a
 
 - !!map
-  id:                 472
+  id:                 477
   name:               Sagen
   radius:             300000
   atmosphereAlt:      42000
@@ -8648,11 +8741,11 @@
     ascNodeLongitude: 42
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           466
+  orbiting:           471
   color:              0x6bcc
 
 - !!map
-  id:                 473
+  id:                 478
   name:               Yama
   radius:             6000000
   atmosphereAlt:      400000
@@ -8667,11 +8760,11 @@
     ascNodeLongitude: 294
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xff2b7e
 
 - !!map
-  id:                 474
+  id:                 479
   name:               Centurion
   radius:             600000
   mass:               5.0779531036962685e+22
@@ -8685,11 +8778,11 @@
     ascNodeLongitude: 308
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           473
+  orbiting:           478
   color:              0x9904c
 
 - !!map
-  id:                 475
+  id:                 480
   name:               Zen
   radius:             432000
   atmosphereAlt:      32000
@@ -8704,11 +8797,11 @@
     ascNodeLongitude: 97
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           473
+  orbiting:           478
   color:              0x96b0ff
 
 - !!map
-  id:                 476
+  id:                 481
   name:               Xuanwu
   radius:             768000
   mass:               1.1699603950916203e+23
@@ -8722,11 +8815,11 @@
     ascNodeLongitude: 147
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           473
+  orbiting:           478
   color:              0x76ff86
 
 - !!map
-  id:                 477
+  id:                 482
   name:               Leviathan
   radius:             1000000
   atmosphereAlt:      230000
@@ -8741,11 +8834,11 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           473
+  orbiting:           478
   color:              0x5209b
 
 - !!map
-  id:                 478
+  id:                 483
   name:               Hai
   radius:             36600
   mass:               7479295968296302000
@@ -8759,11 +8852,11 @@
     ascNodeLongitude: 152
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           477
+  orbiting:           482
   color:              0xb1eb8a
 
 - !!map
-  id:                 479
+  id:                 484
   name:               Qinglong
   radius:             250000
   atmosphereAlt:      20000
@@ -8778,11 +8871,11 @@
     ascNodeLongitude: 36
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0x7bbb
 
 - !!map
-  id:                 480
+  id:                 485
   name:               Infinity
   radius:             225000
   mass:               2.231522360022774e+21
@@ -8796,11 +8889,11 @@
     ascNodeLongitude: 227
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xa2dae0
 
 - !!map
-  id:                 481
+  id:                 486
   name:               Noir
   radius:             75000
   mass:               49589385778283870000
@@ -8814,11 +8907,11 @@
     ascNodeLongitude: 184
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           480
+  orbiting:           485
   color:              0x727272
 
 - !!map
-  id:                 482
+  id:                 487
   name:               Border
   radius:             32230
   mass:               15262847429370870000
@@ -8832,11 +8925,11 @@
     ascNodeLongitude: 11
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0x86a4ff
 
 - !!map
-  id:                 483
+  id:                 488
   name:               Oblivion
   radius:             158550840
   atmosphereAlt:      1000000
@@ -8851,11 +8944,11 @@
     ascNodeLongitude: 15
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xffdc4d
 
 - !!map
-  id:                 484
+  id:                 489
   name:               Kaamo
   radius:             840000
   mass:               8.086640317636307e+22
@@ -8869,11 +8962,11 @@
     ascNodeLongitude: 7
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           483
+  orbiting:           488
   color:              0xf6d045
 
 - !!map
-  id:                 485
+  id:                 490
   name:               Kroadwell
   radius:             4000000
   atmosphereAlt:      200000
@@ -8888,11 +8981,11 @@
     ascNodeLongitude: 8
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           483
+  orbiting:           488
   color:              0xc4f645
 
 - !!map
-  id:                 486
+  id:                 491
   name:               Nirvana
   radius:             250000
   mass:               2.3876370930284825e+21
@@ -8906,11 +8999,11 @@
     ascNodeLongitude: 249
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           485
+  orbiting:           490
   color:              0x45f6df
 
 - !!map
-  id:                 487
+  id:                 492
   name:               Traverse
   radius:             121140112
   atmosphereAlt:      1000000
@@ -8925,11 +9018,11 @@
     ascNodeLongitude: 84
   meanAnomaly0:       0.1
   epoch:              21140000000
-  orbiting:           438
+  orbiting:           443
   color:              0xb2ff
 
 - !!map
-  id:                 488
+  id:                 493
   name:               Fragment
   radius:             10211420
   atmosphereAlt:      500000
@@ -8944,11 +9037,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xb2ff
 
 - !!map
-  id:                 489
+  id:                 494
   name:               Labyrinth
   radius:             365000
   atmosphereAlt:      30000
@@ -8963,11 +9056,11 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xff3333
 
 - !!map
-  id:                 490
+  id:                 495
   name:               Bishamonten
   radius:             642000
   atmosphereAlt:      48000
@@ -8982,11 +9075,11 @@
     ascNodeLongitude: 56
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xeb2e55
 
 - !!map
-  id:                 491
+  id:                 496
   name:               Adeon
   radius:             864000
   atmosphereAlt:      80000
@@ -9001,11 +9094,11 @@
     ascNodeLongitude: 173
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xd82977
 
 - !!map
-  id:                 492
+  id:                 497
   name:               Seraph
   radius:             205000
   atmosphereAlt:      35000
@@ -9020,11 +9113,11 @@
     ascNodeLongitude: 165
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           491
+  orbiting:           496
   color:              0xff910
 
 - !!map
-  id:                 493
+  id:                 498
   name:               Promise
   radius:             560000
   atmosphereAlt:      60000
@@ -9039,11 +9132,11 @@
     ascNodeLongitude: 51
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xc52499
 
 - !!map
-  id:                 494
+  id:                 499
   name:               Raem
   radius:             240000
   atmosphereAlt:      32000
@@ -9058,11 +9151,11 @@
     ascNodeLongitude: 62
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           493
+  orbiting:           498
   color:              0xff7889
 
 - !!map
-  id:                 495
+  id:                 500
   name:               Matterhorn
   radius:             1280000
   atmosphereAlt:      50000
@@ -9077,11 +9170,11 @@
     ascNodeLongitude: 45
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xb11fbb
 
 - !!map
-  id:                 496
+  id:                 501
   name:               Brynhildr
   radius:             720000
   atmosphereAlt:      64000
@@ -9096,11 +9189,11 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x9e1add
 
 - !!map
-  id:                 497
+  id:                 502
   name:               Overture
   radius:             1211400
   atmosphereAlt:      42000
@@ -9115,11 +9208,11 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x8b16ff
 
 - !!map
-  id:                 498
+  id:                 503
   name:               Collide
   radius:             526000
   atmosphereAlt:      50000
@@ -9134,11 +9227,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           497
+  orbiting:           502
   color:              0x66ff
 
 - !!map
-  id:                 499
+  id:                 504
   name:               Parallel
   radius:             526000
   atmosphereAlt:      50000
@@ -9153,11 +9246,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           498
+  orbiting:           503
   color:              0x99ff
 
 - !!map
-  id:                 500
+  id:                 505
   name:               Tack
   radius:             52600
   mass:               17074017830603960000
@@ -9171,11 +9264,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           499
+  orbiting:           504
   color:              0xb2ff
 
 - !!map
-  id:                 501
+  id:                 506
   name:               Amaterasu
   radius:             1200000
   atmosphereAlt:      60000
@@ -9190,11 +9283,11 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x7330ff
 
 - !!map
-  id:                 502
+  id:                 507
   name:               Jeanne
   radius:             600000
   atmosphereAlt:      75000
@@ -9209,11 +9302,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           501
+  orbiting:           506
   color:              0xffed99
 
 - !!map
-  id:                 503
+  id:                 508
   name:               Hakurei
   radius:             600000
   atmosphereAlt:      75000
@@ -9228,11 +9321,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           501
+  orbiting:           506
   color:              0xff6666
 
 - !!map
-  id:                 504
+  id:                 509
   name:               Sora
   radius:             8400000
   atmosphereAlt:      500000
@@ -9247,11 +9340,11 @@
     ascNodeLongitude: 56
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x5c4aff
 
 - !!map
-  id:                 505
+  id:                 510
   name:               Mirai
   radius:             420000
   atmosphereAlt:      50000
@@ -9266,11 +9359,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0xff5454
 
 - !!map
-  id:                 506
+  id:                 511
   name:               Megumi
   radius:             300000
   atmosphereAlt:      40000
@@ -9285,11 +9378,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0xff9c55
 
 - !!map
-  id:                 507
+  id:                 512
   name:               Nishimiya
   radius:             648000
   atmosphereAlt:      60000
@@ -9304,11 +9397,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0xffee66
 
 - !!map
-  id:                 508
+  id:                 513
   name:               Miyamizu
   radius:             800000
   atmosphereAlt:      80000
@@ -9323,11 +9416,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0x7dff6c
 
 - !!map
-  id:                 509
+  id:                 514
   name:               Lyria
   radius:             560000
   atmosphereAlt:      70000
@@ -9342,11 +9435,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0x73c9ff
 
 - !!map
-  id:                 510
+  id:                 515
   name:               Yukino
   radius:             700000
   atmosphereAlt:      60000
@@ -9361,11 +9454,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0xa856ff
 
 - !!map
-  id:                 511
+  id:                 516
   name:               Rin
   radius:             2000000
   atmosphereAlt:      100000
@@ -9380,11 +9473,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0xff7097
 
 - !!map
-  id:                 512
+  id:                 517
   name:               Mabel
   radius:             60000
   atmosphereAlt:      10000
@@ -9399,11 +9492,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           511
+  orbiting:           516
   color:              0xff808d
 
 - !!map
-  id:                 513
+  id:                 518
   name:               Ori
   radius:             21000
   mass:               1295935948339152000
@@ -9417,11 +9510,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           511
+  orbiting:           516
   color:              0xffffff
 
 - !!map
-  id:                 514
+  id:                 519
   name:               Ranco
   radius:             32000
   mass:               3009157394782974000
@@ -9435,11 +9528,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           511
+  orbiting:           516
   color:              0xddffff
 
 - !!map
-  id:                 515
+  id:                 520
   name:               Frisk
   radius:             50000
   mass:               367328783542843500000
@@ -9453,11 +9546,11 @@
     ascNodeLongitude: 23
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           504
+  orbiting:           509
   color:              0x7f7f7f
 
 - !!map
-  id:                 516
+  id:                 521
   name:               Shima
   radius:             3600000
   atmosphereAlt:      200000
@@ -9472,11 +9565,11 @@
     ascNodeLongitude: 96
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x4564ff
 
 - !!map
-  id:                 517
+  id:                 522
   name:               Pooh
   radius:             560000
   atmosphereAlt:      52000
@@ -9491,11 +9584,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           516
+  orbiting:           521
   color:              0xffb20
 
 - !!map
-  id:                 518
+  id:                 523
   name:               Cranell
   radius:             650000
   atmosphereAlt:      48000
@@ -9510,11 +9603,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           516
+  orbiting:           521
   color:              0xddfdff
 
 - !!map
-  id:                 519
+  id:                 524
   name:               Porter
   radius:             450000
   atmosphereAlt:      60000
@@ -9529,11 +9622,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           516
+  orbiting:           521
   color:              0xff066
 
 - !!map
-  id:                 520
+  id:                 525
   name:               Young
   radius:             750000
   atmosphereAlt:      50000
@@ -9548,11 +9641,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           516
+  orbiting:           521
   color:              0xa05dff
 
 - !!map
-  id:                 521
+  id:                 526
   name:               Perry
   radius:             20000
   mass:               1234224712703954200
@@ -9566,11 +9659,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           520
+  orbiting:           525
   color:              0x1de3e0
 
 - !!map
-  id:                 522
+  id:                 527
   name:               Odin
   radius:             320000
   atmosphereAlt:      40000
@@ -9585,11 +9678,11 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x2e7eff
 
 - !!map
-  id:                 523
+  id:                 528
   name:               Daedalus
   radius:             255000
   atmosphereAlt:      30000
@@ -9604,11 +9697,11 @@
     ascNodeLongitude: 82
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x1798ff
 
 - !!map
-  id:                 524
+  id:                 529
   name:               Ascension
   radius:             50271400
   atmosphereAlt:      1000000
@@ -9623,11 +9716,11 @@
     ascNodeLongitude: 21
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0x8b16ff
 
 - !!map
-  id:                 525
+  id:                 530
   name:               Eternal
   radius:             21140000
   atmosphereAlt:      500000
@@ -9642,11 +9735,11 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           524
+  orbiting:           529
   color:              0xff3333
 
 - !!map
-  id:                 526
+  id:                 531
   name:               Ququmatz
   radius:             900000
   atmosphereAlt:      45000
@@ -9661,11 +9754,11 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           524
+  orbiting:           529
   color:              0x808dff
 
 - !!map
-  id:                 527
+  id:                 532
   name:               Harmony
   radius:             800000
   atmosphereAlt:      45000
@@ -9680,11 +9773,11 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           524
+  orbiting:           529
   color:              0x80cdff
 
 - !!map
-  id:                 528
+  id:                 533
   name:               Tiamat
   radius:             20160
   mass:               5971672849946811000
@@ -9698,11 +9791,11 @@
     ascNodeLongitude: 13
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           487
+  orbiting:           492
   color:              0xb2ff
 
 - !!map
-  id:                 529
+  id:                 534
   name:               Wall
   radius:             9200000
   atmosphereAlt:      500000
@@ -9717,11 +9810,11 @@
     ascNodeLongitude: 46
   meanAnomaly0:       0.1
   epoch:              125000000000
-  orbiting:           438
+  orbiting:           443
   color:              0xd5042
 
 - !!map
-  id:                 530
+  id:                 535
   name:               Nyarlathotep
   radius:             500000
   atmosphereAlt:      63000
@@ -9736,11 +9829,11 @@
     ascNodeLongitude: 44
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           529
+  orbiting:           534
   color:              0xef8db
 
 - !!map
-  id:                 531
+  id:                 536
   name:               Eon
   radius:             200209500
   atmosphereAlt:      1000000
@@ -9755,11 +9848,11 @@
     ascNodeLongitude: 212
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           438
+  orbiting:           443
   color:              0xef5a9
 
 - !!map
-  id:                 532
+  id:                 537
   name:               Wallnut
   radius:             880000
   mass:               9.330268647198958e+22
@@ -9773,11 +9866,11 @@
     ascNodeLongitude: 7
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           531
+  orbiting:           536
   color:              0xffeb7
 
 - !!map
-  id:                 533
+  id:                 538
   name:               Everest
   radius:             1200000
   atmosphereAlt:      240000
@@ -9792,11 +9885,11 @@
     ascNodeLongitude: 32
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           531
+  orbiting:           536
   color:              0xb3fdb
 
 - !!map
-  id:                 534
+  id:                 539
   name:               Newell
   radius:             9000000
   atmosphereAlt:      500000
@@ -9811,11 +9904,11 @@
     ascNodeLongitude: 128
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           531
+  orbiting:           536
   color:              0x1efc12
 
 - !!map
-  id:                 535
+  id:                 540
   name:               Iris
   radius:             380000
   atmosphereAlt:      40000
@@ -9830,11 +9923,11 @@
     ascNodeLongitude: 4
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           534
+  orbiting:           539
   color:              0x6cf51b
 
 - !!map
-  id:                 536
+  id:                 541
   name:               Kestrel
   radius:             520000
   mass:               3.5757253105194554e+22
@@ -9848,11 +9941,11 @@
     ascNodeLongitude: 201
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           531
+  orbiting:           536
   color:              0x18fba8
 
 - !!map
-  id:                 537
+  id:                 542
   name:               Barrier
   radius:             21000
   atmosphereAlt:      1000
@@ -9867,5 +9960,5 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           531
+  orbiting:           536
   color:              0xffffff
