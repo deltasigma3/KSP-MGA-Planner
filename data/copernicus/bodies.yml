@@ -23,7 +23,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              23
-  orbiting:           0
+  orbiting:           64
   color:              0x56595e
 
 - !!map
@@ -41,7 +41,7 @@
     ascNodeLongitude: 110
   meanAnomaly0:       3.3
   epoch:              1692852670
-  orbiting:           0
+  orbiting:           64
   color:              0xe0fc23
 
 - !!map
@@ -60,7 +60,7 @@
     ascNodeLongitude: 274
   meanAnomaly0:       3.14159
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x991f1f
 
 - !!map
@@ -78,7 +78,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              30000
-  orbiting:           0
+  orbiting:           64
   color:              0x5b4c68
 
 - !!map
@@ -97,7 +97,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff1919
 
 - !!map
@@ -116,7 +116,7 @@
     ascNodeLongitude: 87
   meanAnomaly0:       3.14159
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x333333
 
 - !!map
@@ -135,7 +135,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.6
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -153,7 +153,7 @@
     ascNodeLongitude: 322.273217256247
   meanAnomaly0:       2.744529304293193
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -171,7 +171,7 @@
     ascNodeLongitude: 215.776026322264
   meanAnomaly0:       0.09723749408692
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -189,7 +189,7 @@
     ascNodeLongitude: 334.371714196478
   meanAnomaly0:       1.4466970481
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -207,7 +207,7 @@
     ascNodeLongitude: 268.586397842896
   meanAnomaly0:       5.054277138310935
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -225,7 +225,7 @@
     ascNodeLongitude: 111.891467367731
   meanAnomaly0:       6.23210145604888
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -243,7 +243,7 @@
     ascNodeLongitude: 228.240021504176
   meanAnomaly0:       2.55167508471763
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -261,7 +261,7 @@
     ascNodeLongitude: 59.5291800316344
   meanAnomaly0:       1.408365921276404
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -280,7 +280,7 @@
     ascNodeLongitude: 93
   meanAnomaly0:       3.14159
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcccc66
 
 - !!map
@@ -298,7 +298,7 @@
     ascNodeLongitude: 149
   meanAnomaly0:       0.431
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa27d6e
 
 - !!map
@@ -317,7 +317,7 @@
     ascNodeLongitude: 180.226609706879
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -335,7 +335,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x665959
 
 - !!map
@@ -353,7 +353,7 @@
     ascNodeLongitude: 34
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x665959
 
 - !!map
@@ -371,7 +371,7 @@
     ascNodeLongitude: 78
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x665959
 
 - !!map
@@ -390,7 +390,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       5.59607362747192
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc7f47
 
 - !!map
@@ -408,7 +408,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x998c66
 
 - !!map
@@ -426,7 +426,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7f7f
 
 - !!map
@@ -445,7 +445,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7259
 
 - !!map
@@ -463,7 +463,7 @@
     ascNodeLongitude: 50
   meanAnomaly0:       4.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x66ff66
 
 - !!map
@@ -481,7 +481,7 @@
     ascNodeLongitude: 70
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xeeb688
 
 - !!map
@@ -500,7 +500,7 @@
     ascNodeLongitude: 3
   meanAnomaly0:       7
   epoch:              2
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -518,7 +518,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -536,7 +536,7 @@
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -554,7 +554,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -572,7 +572,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -591,7 +591,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -609,7 +609,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -627,7 +627,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       1.2
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7fff
 
 - !!map
@@ -645,7 +645,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       4.71
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5bf99
 
 - !!map
@@ -664,7 +664,7 @@
     ascNodeLongitude: 265.92111111
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0xe5420
 
 - !!map
@@ -683,7 +683,7 @@
     ascNodeLongitude: 92
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc1b180
 
 - !!map
@@ -701,7 +701,7 @@
     ascNodeLongitude: 41
   meanAnomaly0:       32
   epoch:              17
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -719,7 +719,7 @@
     ascNodeLongitude: 123
   meanAnomaly0:       21
   epoch:              10
-  orbiting:           0
+  orbiting:           64
   color:              0xb26666
 
 - !!map
@@ -738,7 +738,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc12d20
 
 - !!map
@@ -756,7 +756,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc2a27
 
 - !!map
@@ -774,7 +774,7 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3b352b
 
 - !!map
@@ -793,7 +793,7 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x86793f
 
 - !!map
@@ -811,7 +811,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -829,7 +829,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -848,7 +848,7 @@
     ascNodeLongitude: 15
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6c20e4
 
 - !!map
@@ -866,7 +866,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       20
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x423c17
 
 - !!map
@@ -884,7 +884,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       88
   epoch:              3
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -903,7 +903,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0x6f588e
 
 - !!map
@@ -921,7 +921,7 @@
     ascNodeLongitude: 190
   meanAnomaly0:       287
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x514251
 
 - !!map
@@ -939,7 +939,7 @@
     ascNodeLongitude: 330
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0x272728
 
 - !!map
@@ -957,7 +957,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa27d6e
 
 - !!map
@@ -975,7 +975,7 @@
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -993,7 +993,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       1.1
   epoch:              200000
-  orbiting:           0
+  orbiting:           64
   color:              0x684982
 
 - !!map
@@ -1012,7 +1012,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0xcc7fe5
 
 - !!map
@@ -1031,7 +1031,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       3.25
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc3f
 
 - !!map
@@ -1050,7 +1050,7 @@
     ascNodeLongitude: 34
   meanAnomaly0:       2.3
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x61c2d0
 
 - !!map
@@ -1068,7 +1068,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              10.9
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1086,7 +1086,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              10.9
-  orbiting:           0
+  orbiting:           64
   color:              0xe4c8ae
 
 - !!map
@@ -1105,7 +1105,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2bcce5
 
 - !!map
@@ -1123,7 +1123,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5e5cc
 
 - !!map
@@ -1142,7 +1142,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe57f33
 
 - !!map
@@ -1160,7 +1160,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8acac2
 
 - !!map
@@ -1198,7 +1198,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4c4c0
 
 - !!map
@@ -1216,7 +1216,7 @@
     ascNodeLongitude: -28
   meanAnomaly0:       -1.17
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f8c4c
 
 - !!map
@@ -1234,7 +1234,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.70000004768372
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x9ca0b4
 
 - !!map
@@ -1252,7 +1252,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f
 
 - !!map
@@ -1270,7 +1270,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x999999
 
 - !!map
@@ -1288,7 +1288,7 @@
     ascNodeLongitude: 87
   meanAnomaly0:       89.1
   epoch:              600
-  orbiting:           0
+  orbiting:           64
   color:              0x7f684f
 
 - !!map
@@ -1306,7 +1306,7 @@
     ascNodeLongitude: 85.55
   meanAnomaly0:       0
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x663333
 
 - !!map
@@ -1324,7 +1324,7 @@
     ascNodeLongitude: 265.92111111
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0x4c1919
 
 - !!map
@@ -1342,7 +1342,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       1.70000004768372
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbf99bf
 
 - !!map
@@ -1361,7 +1361,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f807f80
 
 - !!map
@@ -1379,7 +1379,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb23333
 
 - !!map
@@ -1397,7 +1397,7 @@
     ascNodeLongitude: 280
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -1415,7 +1415,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x639cfe01
 
 - !!map
@@ -1434,7 +1434,7 @@
     ascNodeLongitude: 78
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x90988d
 
 - !!map
@@ -1452,7 +1452,7 @@
     ascNodeLongitude: 78
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8e74a0
 
 - !!map
@@ -1470,7 +1470,7 @@
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1488,7 +1488,7 @@
     ascNodeLongitude: 78
   meanAnomaly0:       0
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ffe5
 
 - !!map
@@ -1507,7 +1507,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       253
   epoch:              644343
-  orbiting:           0
+  orbiting:           64
   color:              0x7fccff
 
 - !!map
@@ -1525,7 +1525,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbfbf7f
 
 - !!map
@@ -1543,7 +1543,7 @@
     ascNodeLongitude: 35
   meanAnomaly0:       0
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x66d859
 
 - !!map
@@ -1561,7 +1561,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x3366a5
 
 - !!map
@@ -1579,7 +1579,7 @@
     ascNodeLongitude: 300
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x83c0b8
 
 - !!map
@@ -1597,7 +1597,7 @@
     ascNodeLongitude: 3
   meanAnomaly0:       2.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x665e3a
 
 - !!map
@@ -1615,7 +1615,7 @@
     ascNodeLongitude: 74
   meanAnomaly0:       137.51
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc4b254
 
 - !!map
@@ -1634,7 +1634,7 @@
     ascNodeLongitude: 0.001
   meanAnomaly0:       4
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff8c0
 
 - !!map
@@ -1652,7 +1652,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.0291154
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fffe5
 
 - !!map
@@ -1671,7 +1671,7 @@
     ascNodeLongitude: 220
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1689,7 +1689,7 @@
     ascNodeLongitude: 172.137
   meanAnomaly0:       1.1
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x684982
 
 - !!map
@@ -1708,7 +1708,7 @@
     ascNodeLongitude: 220
   meanAnomaly0:       3.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1726,7 +1726,7 @@
     ascNodeLongitude: 300.92111111
   meanAnomaly0:       1.1
   epoch:              56
-  orbiting:           0
+  orbiting:           64
   color:              0x666666
 
 - !!map
@@ -1744,7 +1744,7 @@
     ascNodeLongitude: 1
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1762,7 +1762,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1781,7 +1781,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x725919
 
 - !!map
@@ -1799,7 +1799,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f3f0
 
 - !!map
@@ -1817,7 +1817,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f3f7f
 
 - !!map
@@ -1835,7 +1835,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3f7f26
 
 - !!map
@@ -1854,7 +1854,7 @@
     ascNodeLongitude: 135.5
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa33f28
 
 - !!map
@@ -1872,7 +1872,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.70000004768372
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x858a9a
 
 - !!map
@@ -1890,7 +1890,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -1908,7 +1908,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.645772
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x858a9a
 
 - !!map
@@ -1926,7 +1926,7 @@
     ascNodeLongitude: 31
   meanAnomaly0:       8
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0x666666
 
 - !!map
@@ -1944,7 +1944,7 @@
     ascNodeLongitude: 135.5
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcccc
 
 - !!map
@@ -1963,7 +1963,7 @@
     ascNodeLongitude: 954
   meanAnomaly0:       0
   epoch:              58932
-  orbiting:           0
+  orbiting:           64
   color:              0x664c33
 
 - !!map
@@ -1981,7 +1981,7 @@
     ascNodeLongitude: 304.32
   meanAnomaly0:       178.82
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x4f4d48
 
 - !!map
@@ -2000,7 +2000,7 @@
     ascNodeLongitude: 70
   meanAnomaly0:       2.3
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe566e5
 
 - !!map
@@ -2018,7 +2018,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fffff
 
 - !!map
@@ -2037,7 +2037,7 @@
     ascNodeLongitude: 207.310338020325
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2055,7 +2055,7 @@
     ascNodeLongitude: 247.556626796722
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2074,7 +2074,7 @@
     ascNodeLongitude: 34.5518034696579
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2092,7 +2092,7 @@
     ascNodeLongitude: 26.3252109289169
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x1a38
 
 - !!map
@@ -2110,7 +2110,7 @@
     ascNodeLongitude: 67.4581950902939
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2129,7 +2129,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2147,7 +2147,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99b2e5
 
 - !!map
@@ -2166,7 +2166,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       20
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2184,7 +2184,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       55
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2202,7 +2202,7 @@
     ascNodeLongitude: 70
   meanAnomaly0:       35
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2221,7 +2221,7 @@
     ascNodeLongitude: 220
   meanAnomaly0:       0
   epoch:              65
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2239,7 +2239,7 @@
     ascNodeLongitude: 300.92111111
   meanAnomaly0:       1.1
   epoch:              56
-  orbiting:           0
+  orbiting:           64
   color:              0x999999
 
 - !!map
@@ -2258,7 +2258,7 @@
     ascNodeLongitude: 14
   meanAnomaly0:       0
   epoch:              6586580
-  orbiting:           0
+  orbiting:           64
   color:              0x5391aa
 
 - !!map
@@ -2276,7 +2276,7 @@
     ascNodeLongitude: 97
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb3d3ff
 
 - !!map
@@ -2294,7 +2294,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xba997c
 
 - !!map
@@ -2313,7 +2313,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       5.59607362747192
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffdb0
 
 - !!map
@@ -2331,7 +2331,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8c8c9f
 
 - !!map
@@ -2349,7 +2349,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8cbfbf
 
 - !!map
@@ -2367,7 +2367,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x953a35
 
 - !!map
@@ -2385,7 +2385,7 @@
     ascNodeLongitude: 255
   meanAnomaly0:       1.71681469282041
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7fb2
 
 - !!map
@@ -2403,7 +2403,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xdb7fbc
 
 - !!map
@@ -2422,7 +2422,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       5.59607362747192
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x72cc
 
 - !!map
@@ -2440,7 +2440,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffdb0
 
 - !!map
@@ -2458,7 +2458,7 @@
     ascNodeLongitude: 280
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -2476,7 +2476,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -2494,7 +2494,7 @@
     ascNodeLongitude: 15
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2512,7 +2512,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2530,7 +2530,7 @@
     ascNodeLongitude: 18
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2548,7 +2548,7 @@
     ascNodeLongitude: 1
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2566,7 +2566,7 @@
     ascNodeLongitude: 35
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2584,7 +2584,7 @@
     ascNodeLongitude: 5
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2603,7 +2603,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              23
-  orbiting:           0
+  orbiting:           64
   color:              0x28ffff
 
 - !!map
@@ -2622,7 +2622,7 @@
     ascNodeLongitude: 32
   meanAnomaly0:       0
   epoch:              61
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2640,7 +2640,7 @@
     ascNodeLongitude: 235
   meanAnomaly0:       0
   epoch:              12
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2658,7 +2658,7 @@
     ascNodeLongitude: 103.85136
   meanAnomaly0:       20.86384
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x9a9684
 
 - !!map
@@ -2677,7 +2677,7 @@
     ascNodeLongitude: 34.5518034696579
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2695,7 +2695,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2714,7 +2714,7 @@
     ascNodeLongitude: 8
   meanAnomaly0:       80
   epoch:              3
-  orbiting:           0
+  orbiting:           64
   color:              0xc75d1c
 
 - !!map
@@ -2733,7 +2733,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc1919
 
 - !!map
@@ -2751,7 +2751,7 @@
     ascNodeLongitude: 280
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5a4432
 
 - !!map
@@ -2769,7 +2769,7 @@
     ascNodeLongitude: 26
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0x68b282
 
 - !!map
@@ -2787,7 +2787,7 @@
     ascNodeLongitude: 299
   meanAnomaly0:       5.61
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x937575
 
 - !!map
@@ -2805,7 +2805,7 @@
     ascNodeLongitude: 8
   meanAnomaly0:       8
   epoch:              2
-  orbiting:           0
+  orbiting:           64
   color:              0xc3fc
 
 - !!map
@@ -2823,7 +2823,7 @@
     ascNodeLongitude: 5
   meanAnomaly0:       4
   epoch:              3
-  orbiting:           0
+  orbiting:           64
   color:              0xbfbfbf
 
 - !!map
@@ -2842,7 +2842,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb0a178
 
 - !!map
@@ -2861,7 +2861,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x796cc5
 
 - !!map
@@ -2880,7 +2880,7 @@
     ascNodeLongitude: 71
   meanAnomaly0:       2
   epoch:              11
-  orbiting:           0
+  orbiting:           64
   color:              0xb2997f
 
 - !!map
@@ -2898,7 +2898,7 @@
     ascNodeLongitude: 2
   meanAnomaly0:       2
   epoch:              16
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2916,7 +2916,7 @@
     ascNodeLongitude: 87.5566095113754
   meanAnomaly0:       4.6989336918722
   epoch:              19436.96949342
-  orbiting:           0
+  orbiting:           64
   color:              0x8c5a4a
 
 - !!map
@@ -2934,7 +2934,7 @@
     ascNodeLongitude: 282.995023727417
   meanAnomaly0:       1.43010667587765
   epoch:              19221.3094934152
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -2952,7 +2952,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99cccc
 
 - !!map
@@ -2971,7 +2971,7 @@
     ascNodeLongitude: 100
   meanAnomaly0:       3.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fbfff
 
 - !!map
@@ -2989,7 +2989,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa5bfa5
 
 - !!map
@@ -3008,7 +3008,7 @@
     ascNodeLongitude: 175
   meanAnomaly0:       6
   epoch:              12
-  orbiting:           0
+  orbiting:           64
   color:              0x7f0a5
 
 - !!map
@@ -3027,7 +3027,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x623056
 
 - !!map
@@ -3045,7 +3045,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4c6c69
 
 - !!map
@@ -3063,7 +3063,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fa967
 
 - !!map
@@ -3081,7 +3081,7 @@
     ascNodeLongitude: 280
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x446186
 
 - !!map
@@ -3099,7 +3099,7 @@
     ascNodeLongitude: 150.352
   meanAnomaly0:       323.379
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0xc39176
 
 - !!map
@@ -3118,7 +3118,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4c99ff
 
 - !!map
@@ -3137,7 +3137,7 @@
     ascNodeLongitude: 130
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff3319
 
 - !!map
@@ -3155,7 +3155,7 @@
     ascNodeLongitude: 351.516795158386
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc190
 
 - !!map
@@ -3174,7 +3174,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6600
 
 - !!map
@@ -3192,7 +3192,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc190
 
 - !!map
@@ -3210,7 +3210,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc190
 
 - !!map
@@ -3229,7 +3229,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x994c0
 
 - !!map
@@ -3247,7 +3247,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x994c0
 
 - !!map
@@ -3266,7 +3266,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5d899
 
 - !!map
@@ -3284,7 +3284,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5d899
 
 - !!map
@@ -3303,7 +3303,7 @@
     ascNodeLongitude: 240
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99ff0
 
 - !!map
@@ -3321,7 +3321,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99ff0
 
 - !!map
@@ -3340,7 +3340,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4fdbe8
 
 - !!map
@@ -3358,7 +3358,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4fdbe8
 
 - !!map
@@ -3376,7 +3376,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4fdbe8
 
 - !!map
@@ -3395,7 +3395,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x19cc99
 
 - !!map
@@ -3414,7 +3414,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff19b2
 
 - !!map
@@ -3433,7 +3433,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x191919
 
 - !!map
@@ -3452,7 +3452,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x19cc19
 
 - !!map
@@ -3470,7 +3470,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xccff19
 
 - !!map
@@ -3488,7 +3488,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc19
 
 - !!map
@@ -3506,7 +3506,7 @@
     ascNodeLongitude: 22.891
   meanAnomaly0:       84.311
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x728c7f
 
 - !!map
@@ -3525,7 +3525,7 @@
     ascNodeLongitude: 280
   meanAnomaly0:       3.25
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbc35cc
 
 - !!map
@@ -3543,7 +3543,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x66db7a
 
 - !!map
@@ -3562,7 +3562,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4cff
 
 - !!map
@@ -3580,7 +3580,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x9999bf
 
 - !!map
@@ -3598,7 +3598,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbfbf99
 
 - !!map
@@ -3616,7 +3616,7 @@
     ascNodeLongitude: 122.11
   meanAnomaly0:       303.71
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x3c3c3c
 
 - !!map
@@ -3634,7 +3634,7 @@
     ascNodeLongitude: 298.233575820923
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcccccc
 
 - !!map
@@ -3653,7 +3653,7 @@
     ascNodeLongitude: 259
   meanAnomaly0:       2.27167344093323
   epoch:              99.6799999999973
-  orbiting:           0
+  orbiting:           64
   color:              0x6959cd
 
 - !!map
@@ -3671,7 +3671,7 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              53
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3689,7 +3689,7 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              120
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3708,7 +3708,7 @@
     ascNodeLongitude: 350
   meanAnomaly0:       0
   epoch:              111
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3726,7 +3726,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0x68b282
 
 - !!map
@@ -3745,7 +3745,7 @@
     ascNodeLongitude: 31
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3763,7 +3763,7 @@
     ascNodeLongitude: 122
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3782,7 +3782,7 @@
     ascNodeLongitude: 220
   meanAnomaly0:       0
   epoch:              129
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3800,7 +3800,7 @@
     ascNodeLongitude: 32
   meanAnomaly0:       0
   epoch:              61
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3818,7 +3818,7 @@
     ascNodeLongitude: 26
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0x0
 
 - !!map
@@ -3837,7 +3837,7 @@
     ascNodeLongitude: 146
   meanAnomaly0:       0
   epoch:              123
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3856,7 +3856,7 @@
     ascNodeLongitude: 31.7954877018929
   meanAnomaly0:       2.59127442438662
   epoch:              59786.7530607618
-  orbiting:           0
+  orbiting:           64
   color:              0xa1806e
 
 - !!map
@@ -3874,7 +3874,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       5.12
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x666666
 
 - !!map
@@ -3893,7 +3893,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       2.5
   epoch:              121
-  orbiting:           0
+  orbiting:           64
   color:              0xe5cccc
 
 - !!map
@@ -3911,7 +3911,7 @@
     ascNodeLongitude: 162.265974283218
   meanAnomaly0:       4.97538991156628
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3929,7 +3929,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.141592653589793
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -3948,7 +3948,7 @@
     ascNodeLongitude: 190
   meanAnomaly0:       287
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xae8162
 
 - !!map
@@ -3966,7 +3966,7 @@
     ascNodeLongitude: 190
   meanAnomaly0:       287
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x956849
 
 - !!map
@@ -3985,7 +3985,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4004,7 +4004,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4023,7 +4023,7 @@
     ascNodeLongitude: 36
   meanAnomaly0:       5.59607362747192
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fb2cc
 
 - !!map
@@ -4042,7 +4042,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x1c1db2
 
 - !!map
@@ -4061,7 +4061,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -4080,7 +4080,7 @@
     ascNodeLongitude: 175
   meanAnomaly0:       6
   epoch:              12
-  orbiting:           0
+  orbiting:           64
   color:              0x33cccc
 
 - !!map
@@ -4098,7 +4098,7 @@
     ascNodeLongitude: 77
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7a7f
 
 - !!map
@@ -4116,7 +4116,7 @@
     ascNodeLongitude: 230
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7a7f
 
 - !!map
@@ -4135,7 +4135,7 @@
     ascNodeLongitude: 52
   meanAnomaly0:       0.100000001490116
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x548513
 
 - !!map
@@ -4154,7 +4154,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x44569c
 
 - !!map
@@ -4172,7 +4172,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4190,7 +4190,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc7f
 
 - !!map
@@ -4208,7 +4208,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6e9bb4
 
 - !!map
@@ -4226,7 +4226,7 @@
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4244,7 +4244,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xd3aaaa
 
 - !!map
@@ -4262,7 +4262,7 @@
     ascNodeLongitude: 170.226609706879
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4280,7 +4280,7 @@
     ascNodeLongitude: 16
   meanAnomaly0:       2.1255
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4c5966
 
 - !!map
@@ -4298,7 +4298,7 @@
     ascNodeLongitude: 10
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbaa07d
 
 - !!map
@@ -4316,7 +4316,7 @@
     ascNodeLongitude: 2
   meanAnomaly0:       0.899999976158142
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xdce4ac
 
 - !!map
@@ -4334,7 +4334,7 @@
     ascNodeLongitude: 52
   meanAnomaly0:       1.1498
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7b6269
 
 - !!map
@@ -4352,7 +4352,7 @@
     ascNodeLongitude: 248
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x59564c
 
 - !!map
@@ -4371,7 +4371,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7f7f
 
 - !!map
@@ -4390,7 +4390,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcccc3f
 
 - !!map
@@ -4408,7 +4408,7 @@
     ascNodeLongitude: 100
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc7f7f
 
 - !!map
@@ -4426,7 +4426,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fbfbf
 
 - !!map
@@ -4444,7 +4444,7 @@
     ascNodeLongitude: 265.92111111
   meanAnomaly0:       1.1
   epoch:              20
-  orbiting:           0
+  orbiting:           64
   color:              0x4ccc66
 
 - !!map
@@ -4463,7 +4463,7 @@
     ascNodeLongitude: 133
   meanAnomaly0:       130
   epoch:              55
-  orbiting:           0
+  orbiting:           64
   color:              0x48e2f
 
 - !!map
@@ -4482,7 +4482,7 @@
     ascNodeLongitude: 130
   meanAnomaly0:       130
   epoch:              155
-  orbiting:           0
+  orbiting:           64
   color:              0x869c14
 
 - !!map
@@ -4500,7 +4500,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x802b4c
 
 - !!map
@@ -4518,7 +4518,7 @@
     ascNodeLongitude: 70
   meanAnomaly0:       40
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xae6c88
 
 - !!map
@@ -4536,7 +4536,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       40
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc2bf85
 
 - !!map
@@ -4554,7 +4554,7 @@
     ascNodeLongitude: 300
   meanAnomaly0:       240
   epoch:              110
-  orbiting:           0
+  orbiting:           64
   color:              0x343454
 
 - !!map
@@ -4573,7 +4573,7 @@
     ascNodeLongitude: 100
   meanAnomaly0:       80
   epoch:              155
-  orbiting:           0
+  orbiting:           64
   color:              0x38369c
 
 - !!map
@@ -4591,7 +4591,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff0
 
 - !!map
@@ -4609,7 +4609,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff0
 
 - !!map
@@ -4627,7 +4627,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f330
 
 - !!map
@@ -4645,7 +4645,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffff0
 
 - !!map
@@ -4664,7 +4664,7 @@
     ascNodeLongitude: 5
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2c306a
 
 - !!map
@@ -4682,7 +4682,7 @@
     ascNodeLongitude: 5
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2c306a
 
 - !!map
@@ -4700,7 +4700,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x473a50
 
 - !!map
@@ -4718,7 +4718,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4736,7 +4736,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4754,7 +4754,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xfff40
 
 - !!map
@@ -4773,7 +4773,7 @@
     ascNodeLongitude: 225
   meanAnomaly0:       2.44
   epoch:              29444
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4791,7 +4791,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5ccb2
 
 - !!map
@@ -4809,7 +4809,7 @@
     ascNodeLongitude: 100
   meanAnomaly0:       0
   epoch:              200000
-  orbiting:           0
+  orbiting:           64
   color:              0xffff
 
 - !!map
@@ -4827,7 +4827,7 @@
     ascNodeLongitude: 225
   meanAnomaly0:       0
   epoch:              29444
-  orbiting:           0
+  orbiting:           64
   color:              0xe5ccb2
 
 - !!map
@@ -4845,7 +4845,7 @@
     ascNodeLongitude: 20
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4863,7 +4863,7 @@
     ascNodeLongitude: 20
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -4881,7 +4881,7 @@
     ascNodeLongitude: 78
   meanAnomaly0:       0
   epoch:              2332222300
-  orbiting:           0
+  orbiting:           64
   color:              0x5b4c68
 
 - !!map
@@ -4899,7 +4899,7 @@
     ascNodeLongitude: 265
   meanAnomaly0:       1.1
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x686dcc
 
 - !!map
@@ -4917,7 +4917,7 @@
     ascNodeLongitude: 300.92111111
   meanAnomaly0:       1.1
   epoch:              56
-  orbiting:           0
+  orbiting:           64
   color:              0x999999
 
 - !!map
@@ -4936,7 +4936,7 @@
     ascNodeLongitude: 178.408012390137
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fdfcf
 
 - !!map
@@ -4954,7 +4954,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.1
   epoch:              1043.91
-  orbiting:           0
+  orbiting:           64
   color:              0x96cdf9
 
 - !!map
@@ -4972,7 +4972,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.12137938575177
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x23e0
 
 - !!map
@@ -4990,7 +4990,7 @@
     ascNodeLongitude: 0.6
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x828a82
 
 - !!map
@@ -5008,7 +5008,7 @@
     ascNodeLongitude: 15
   meanAnomaly0:       4.15531089932084
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8a7664
 
 - !!map
@@ -5026,7 +5026,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              23
-  orbiting:           0
+  orbiting:           64
   color:              0x66144c
 
 - !!map
@@ -5044,7 +5044,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              23
-  orbiting:           0
+  orbiting:           64
   color:              0x565977
 
 - !!map
@@ -5062,7 +5062,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              3600000000
-  orbiting:           0
+  orbiting:           64
   color:              0xa1b0b0
 
 - !!map
@@ -5081,7 +5081,7 @@
     ascNodeLongitude: 162
   meanAnomaly0:       94
   epoch:              2896
-  orbiting:           0
+  orbiting:           64
   color:              0x99ccff
 
 - !!map
@@ -5099,7 +5099,7 @@
     ascNodeLongitude: 162
   meanAnomaly0:       94
   epoch:              2896
-  orbiting:           0
+  orbiting:           64
   color:              0x997f66
 
 - !!map
@@ -5117,7 +5117,7 @@
     ascNodeLongitude: 162
   meanAnomaly0:       94
   epoch:              2896
-  orbiting:           0
+  orbiting:           64
   color:              0x4c33f
 
 - !!map
@@ -5136,7 +5136,7 @@
     ascNodeLongitude: 162
   meanAnomaly0:       94
   epoch:              2896
-  orbiting:           0
+  orbiting:           64
   color:              0xe5cc8c
 
 - !!map
@@ -5154,7 +5154,7 @@
     ascNodeLongitude: 32
   meanAnomaly0:       94
   epoch:              2896
-  orbiting:           0
+  orbiting:           64
   color:              0xe5e2db
 
 - !!map
@@ -5173,7 +5173,7 @@
     ascNodeLongitude: 184
   meanAnomaly0:       2.88114666938782
   epoch:              359.279999999964
-  orbiting:           0
+  orbiting:           64
   color:              0xddb887
 
 - !!map
@@ -5191,7 +5191,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xefe68c
 
 - !!map
@@ -5209,7 +5209,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.72
   epoch:              751.7
-  orbiting:           0
+  orbiting:           64
   color:              0xafc3dd
 
 - !!map
@@ -5227,7 +5227,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       3.14000010490417
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x686a6a
 
 - !!map
@@ -5245,7 +5245,7 @@
     ascNodeLongitude: 87
   meanAnomaly0:       0
   epoch:              434000
-  orbiting:           0
+  orbiting:           64
   color:              0x5a463d
 
 - !!map
@@ -5263,7 +5263,7 @@
     ascNodeLongitude: 97
   meanAnomaly0:       0
   epoch:              90000
-  orbiting:           0
+  orbiting:           64
   color:              0xb19a73
 
 - !!map
@@ -5281,7 +5281,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.1
   epoch:              1343.91
-  orbiting:           0
+  orbiting:           64
   color:              0xd1b38c
 
 - !!map
@@ -5300,7 +5300,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       2.1
   epoch:              1275.12
-  orbiting:           0
+  orbiting:           64
   color:              0x4ce5a5
 
 - !!map
@@ -5318,7 +5318,7 @@
     ascNodeLongitude: 300.92111111
   meanAnomaly0:       1.1
   epoch:              287
-  orbiting:           0
+  orbiting:           64
   color:              0x99420
 
 - !!map
@@ -5337,7 +5337,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5355,7 +5355,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5373,7 +5373,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5391,7 +5391,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5410,7 +5410,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5c7c
 
 - !!map
@@ -5428,7 +5428,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x494949
 
 - !!map
@@ -5446,7 +5446,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -5464,7 +5464,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff8b0
 
 - !!map
@@ -5482,7 +5482,7 @@
     ascNodeLongitude: 65.573534
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6d4848
 
 - !!map
@@ -5501,7 +5501,7 @@
     ascNodeLongitude: 110
   meanAnomaly0:       2.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fcc3f
 
 - !!map
@@ -5519,7 +5519,7 @@
     ascNodeLongitude: 130
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7fbf
 
 - !!map
@@ -5538,7 +5538,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffbf7f
 
 - !!map
@@ -5557,7 +5557,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99cc3f
 
 - !!map
@@ -5576,7 +5576,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0xb27f66
 
 - !!map
@@ -5594,7 +5594,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5612,7 +5612,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0x3b63b0b
 
 - !!map
@@ -5630,7 +5630,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0x664c4c
 
 - !!map
@@ -5648,7 +5648,7 @@
     ascNodeLongitude: 45
   meanAnomaly0:       65.04
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0xb24c7f
 
 - !!map
@@ -5666,7 +5666,7 @@
     ascNodeLongitude: 72.38
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0x664c4c
 
 - !!map
@@ -5685,7 +5685,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0.6
-  orbiting:           0
+  orbiting:           64
   color:              0x99b2e5
 
 - !!map
@@ -5703,7 +5703,7 @@
     ascNodeLongitude: 58.42
   meanAnomaly0:       218.38
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x3c3c3c
 
 - !!map
@@ -5721,7 +5721,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5739,7 +5739,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5757,7 +5757,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5775,7 +5775,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5793,7 +5793,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -5812,7 +5812,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xaddff6
 
 - !!map
@@ -5831,7 +5831,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.10000002384186
   epoch:              1343.91003417969
-  orbiting:           0
+  orbiting:           64
   color:              0xbfccd1
 
 - !!map
@@ -5849,7 +5849,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.10000002384186
   epoch:              1343.91003417969
-  orbiting:           0
+  orbiting:           64
   color:              0xbfccd1
 
 - !!map
@@ -5868,7 +5868,7 @@
     ascNodeLongitude: 55
   meanAnomaly0:       1.1
   epoch:              1343.91
-  orbiting:           0
+  orbiting:           64
   color:              0xa87c7a
 
 - !!map
@@ -5886,7 +5886,7 @@
     ascNodeLongitude: 145.0872194767
   meanAnomaly0:       1.1
   epoch:              1343.91
-  orbiting:           0
+  orbiting:           64
   color:              0xb2b2b2
 
 - !!map
@@ -5905,7 +5905,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff
 
 - !!map
@@ -5924,7 +5924,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa23e28
 
 - !!map
@@ -5942,7 +5942,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2c306a
 
 - !!map
@@ -5960,7 +5960,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5b4c68
 
 - !!map
@@ -5978,7 +5978,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffff0
 
 - !!map
@@ -5996,7 +5996,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x937575
 
 - !!map
@@ -6015,7 +6015,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc7f47
 
 - !!map
@@ -6033,7 +6033,7 @@
     ascNodeLongitude: 66
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe6e6f9
 
 - !!map
@@ -6051,7 +6051,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff9933
 
 - !!map
@@ -6069,7 +6069,7 @@
     ascNodeLongitude: 20
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcce5e5
 
 - !!map
@@ -6087,7 +6087,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       2.6
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x33ff
 
 - !!map
@@ -6105,7 +6105,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       2.718
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff4c
 
 - !!map
@@ -6123,7 +6123,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x996619
 
 - !!map
@@ -6141,7 +6141,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff0ff
 
 - !!map
@@ -6159,7 +6159,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.77
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x33ff33
 
 - !!map
@@ -6177,7 +6177,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4c00
 
 - !!map
@@ -6195,7 +6195,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4cff0
 
 - !!map
@@ -6213,7 +6213,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              2332222300
-  orbiting:           0
+  orbiting:           64
   color:              0x937575
 
 - !!map
@@ -6231,7 +6231,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5b4c68
 
 - !!map
@@ -6249,7 +6249,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5b4c68
 
 - !!map
@@ -6267,7 +6267,7 @@
     ascNodeLongitude: 300.43
   meanAnomaly0:       77.67
   epoch:              1
-  orbiting:           0
+  orbiting:           64
   color:              0x808080
 
 - !!map
@@ -6286,7 +6286,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       5.59607362747192
   epoch:              422.539999999906
-  orbiting:           0
+  orbiting:           64
   color:              0x48d1cc
 
 - !!map
@@ -6304,7 +6304,7 @@
     ascNodeLongitude: 40
   meanAnomaly0:       1.5209
   epoch:              878.1399
-  orbiting:           0
+  orbiting:           64
   color:              0x6b6a66
 
 - !!map
@@ -6322,7 +6322,7 @@
     ascNodeLongitude: 40
   meanAnomaly0:       1.5209
   epoch:              878.1399
-  orbiting:           0
+  orbiting:           64
   color:              0x7a9f93
 
 - !!map
@@ -6340,7 +6340,7 @@
     ascNodeLongitude: 40
   meanAnomaly0:       2.9615
   epoch:              1078.179
-  orbiting:           0
+  orbiting:           64
   color:              0xb89963
 
 - !!map
@@ -6358,7 +6358,7 @@
     ascNodeLongitude: 40
   meanAnomaly0:       0
   epoch:              1179.579
-  orbiting:           0
+  orbiting:           64
   color:              0x665b4a
 
 - !!map
@@ -6377,7 +6377,7 @@
     ascNodeLongitude: 207.310338020325
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6395,7 +6395,7 @@
     ascNodeLongitude: 62
   meanAnomaly0:       5.8
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe8c246
 
 - !!map
@@ -6413,7 +6413,7 @@
     ascNodeLongitude: 164
   meanAnomaly0:       1.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4a4236
 
 - !!map
@@ -6431,7 +6431,7 @@
     ascNodeLongitude: 166
   meanAnomaly0:       2.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x77582a
 
 - !!map
@@ -6450,7 +6450,7 @@
     ascNodeLongitude: 236
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2d99a5
 
 - !!map
@@ -6469,7 +6469,7 @@
     ascNodeLongitude: 61
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc33c
 
 - !!map
@@ -6487,7 +6487,7 @@
     ascNodeLongitude: 20
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x666666
 
 - !!map
@@ -6506,7 +6506,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       2.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff990
 
 - !!map
@@ -6525,7 +6525,7 @@
     ascNodeLongitude: 357
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7fff
 
 - !!map
@@ -6543,7 +6543,7 @@
     ascNodeLongitude: 3
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fe57f
 
 - !!map
@@ -6561,7 +6561,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.57
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffa5a5
 
 - !!map
@@ -6579,7 +6579,7 @@
     ascNodeLongitude: 6
   meanAnomaly0:       4.71
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fa5cc
 
 - !!map
@@ -6597,7 +6597,7 @@
     ascNodeLongitude: 150
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5cc4c
 
 - !!map
@@ -6615,7 +6615,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc99cc
 
 - !!map
@@ -6633,7 +6633,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6651,7 +6651,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6669,7 +6669,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6687,7 +6687,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6705,7 +6705,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6723,7 +6723,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6741,7 +6741,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6759,7 +6759,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6777,7 +6777,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6795,7 +6795,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6813,7 +6813,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6831,7 +6831,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6849,7 +6849,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6867,7 +6867,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6885,7 +6885,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -6903,7 +6903,7 @@
     ascNodeLongitude: 74
   meanAnomaly0:       5.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7c6214
 
 - !!map
@@ -6921,7 +6921,7 @@
     ascNodeLongitude: 176
   meanAnomaly0:       4.4
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6a2d0
 
 - !!map
@@ -6939,7 +6939,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       1.1
   epoch:              200000
-  orbiting:           0
+  orbiting:           64
   color:              0x264789
 
 - !!map
@@ -6957,7 +6957,7 @@
     ascNodeLongitude: 32
   meanAnomaly0:       0.3
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8021d
 
 - !!map
@@ -6975,7 +6975,7 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.2
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5e3557
 
 - !!map
@@ -6993,7 +6993,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       1.43
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7011,7 +7011,7 @@
     ascNodeLongitude: 14
   meanAnomaly0:       2
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7029,7 +7029,7 @@
     ascNodeLongitude: 83
   meanAnomaly0:       1.5
   epoch:              100
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7047,7 +7047,7 @@
     ascNodeLongitude: 4
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7066,7 +7066,7 @@
     ascNodeLongitude: 259
   meanAnomaly0:       2.27167344093323
   epoch:              99.6799999999973
-  orbiting:           0
+  orbiting:           64
   color:              0x6959cd
 
 - !!map
@@ -7085,7 +7085,7 @@
     ascNodeLongitude: 66
   meanAnomaly0:       2.04731106758118
   epoch:              1953406.32967385
-  orbiting:           0
+  orbiting:           64
   color:              0xe6e6f9
 
 - !!map
@@ -7104,7 +7104,7 @@
     ascNodeLongitude: 25
   meanAnomaly0:       0.35
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -7122,7 +7122,7 @@
     ascNodeLongitude: 66
   meanAnomaly0:       2.04731106758118
   epoch:              1953406.32967385
-  orbiting:           0
+  orbiting:           64
   color:              0xd1b38c
 
 - !!map
@@ -7141,7 +7141,7 @@
     ascNodeLongitude: 120
   meanAnomaly0:       4.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fbfbf
 
 - !!map
@@ -7159,7 +7159,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcccc66
 
 - !!map
@@ -7177,7 +7177,7 @@
     ascNodeLongitude: 348
   meanAnomaly0:       4.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa1b0b0
 
 - !!map
@@ -7195,7 +7195,7 @@
     ascNodeLongitude: 294
   meanAnomaly0:       5.2
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2c3d63
 
 - !!map
@@ -7214,7 +7214,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.1
   epoch:              1343.91
-  orbiting:           0
+  orbiting:           64
   color:              0xa57a33
 
 - !!map
@@ -7233,7 +7233,7 @@
     ascNodeLongitude: 89
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xbf667f
 
 - !!map
@@ -7251,7 +7251,7 @@
     ascNodeLongitude: 89
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3366b2
 
 - !!map
@@ -7269,7 +7269,7 @@
     ascNodeLongitude: 260
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7287,7 +7287,7 @@
     ascNodeLongitude: 260
   meanAnomaly0:       0
   epoch:              213
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7306,7 +7306,7 @@
     ascNodeLongitude: 100
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa5a5a5
 
 - !!map
@@ -7324,7 +7324,7 @@
     ascNodeLongitude: 122.11
   meanAnomaly0:       226.6
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0xcae8e3
 
 - !!map
@@ -7342,7 +7342,7 @@
     ascNodeLongitude: 245
   meanAnomaly0:       12
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0x333333
 
 - !!map
@@ -7360,7 +7360,7 @@
     ascNodeLongitude: 256
   meanAnomaly0:       85
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0x544040
 
 - !!map
@@ -7378,7 +7378,7 @@
     ascNodeLongitude: 122.11
   meanAnomaly0:       165.514
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0xbc495
 
 - !!map
@@ -7396,7 +7396,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       45
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0xb2cbce
 
 - !!map
@@ -7414,7 +7414,7 @@
     ascNodeLongitude: 48.66
   meanAnomaly0:       2.98
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7433,7 +7433,7 @@
     ascNodeLongitude: 18.0986130237579
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7451,7 +7451,7 @@
     ascNodeLongitude: 0.0001
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7469,7 +7469,7 @@
     ascNodeLongitude: 91.482821
   meanAnomaly0:       3.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7487,7 +7487,7 @@
     ascNodeLongitude: 248.482821
   meanAnomaly0:       1.4
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7505,7 +7505,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7523,7 +7523,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7541,7 +7541,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xee00
 
 - !!map
@@ -7560,7 +7560,7 @@
     ascNodeLongitude: 35.9
   meanAnomaly0:       205
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0x77726d
 
 - !!map
@@ -7578,7 +7578,7 @@
     ascNodeLongitude: 130
   meanAnomaly0:       25
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0x353335
 
 - !!map
@@ -7596,7 +7596,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7614,7 +7614,7 @@
     ascNodeLongitude: 60
   meanAnomaly0:       2.047
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -7633,7 +7633,7 @@
     ascNodeLongitude: 52
   meanAnomaly0:       6.23
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x191b4c
 
 - !!map
@@ -7651,7 +7651,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc2319
 
 - !!map
@@ -7669,7 +7669,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x337f66
 
 - !!map
@@ -7687,7 +7687,7 @@
     ascNodeLongitude: 50
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x33195
 
 - !!map
@@ -7705,7 +7705,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6a6a6a
 
 - !!map
@@ -7724,7 +7724,7 @@
     ascNodeLongitude: 130
   meanAnomaly0:       -0.274
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc00
 
 - !!map
@@ -7742,7 +7742,7 @@
     ascNodeLongitude: 140
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff990
 
 - !!map
@@ -7761,7 +7761,7 @@
     ascNodeLongitude: 160
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcc6666
 
 - !!map
@@ -7780,7 +7780,7 @@
     ascNodeLongitude: 155
   meanAnomaly0:       0.70365916
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fbfff
 
 - !!map
@@ -7798,7 +7798,7 @@
     ascNodeLongitude: 135
   meanAnomaly0:       1.81138176
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa5a5a5
 
 - !!map
@@ -7816,7 +7816,7 @@
     ascNodeLongitude: 170
   meanAnomaly0:       4
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb2997f
 
 - !!map
@@ -7834,7 +7834,7 @@
     ascNodeLongitude: 195
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fb299
 
 - !!map
@@ -7853,7 +7853,7 @@
     ascNodeLongitude: 150
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x3fcc3f
 
 - !!map
@@ -7871,7 +7871,7 @@
     ascNodeLongitude: 120
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffbf7f
 
 - !!map
@@ -7890,7 +7890,7 @@
     ascNodeLongitude: 150
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7f7f
 
 - !!map
@@ -7908,7 +7908,7 @@
     ascNodeLongitude: 210
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7fbfbf
 
 - !!map
@@ -7927,7 +7927,7 @@
     ascNodeLongitude: 145
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff3fff
 
 - !!map
@@ -7945,7 +7945,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       3.141592654
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xe5bf99
 
 - !!map
@@ -7963,7 +7963,7 @@
     ascNodeLongitude: 225
   meanAnomaly0:       0
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7f7f
 
 - !!map
@@ -7981,7 +7981,7 @@
     ascNodeLongitude: 120
   meanAnomaly0:       0.5
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc3f
 
 - !!map
@@ -7999,7 +7999,7 @@
     ascNodeLongitude: 68.885
   meanAnomaly0:       1.115
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -8017,7 +8017,7 @@
     ascNodeLongitude: 80
   meanAnomaly0:       1.668
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -8035,7 +8035,7 @@
     ascNodeLongitude: 28.1
   meanAnomaly0:       1.33045
   epoch:              125000
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -8053,7 +8053,7 @@
     ascNodeLongitude: 342
   meanAnomaly0:       0.925
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xNaN
 
 - !!map
@@ -8071,7 +8071,7 @@
     ascNodeLongitude: 144.32
   meanAnomaly0:       358.04
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0xe9e0eb
 
 - !!map
@@ -8089,7 +8089,7 @@
     ascNodeLongitude: 124
   meanAnomaly0:       123
   epoch:              6
-  orbiting:           0
+  orbiting:           64
   color:              0xcfc9a8
 
 - !!map
@@ -8108,7 +8108,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99ff
 
 - !!map
@@ -8126,7 +8126,7 @@
     ascNodeLongitude: 96
   meanAnomaly0:       3.14
   epoch:              4
-  orbiting:           0
+  orbiting:           64
   color:              0xff7a0
 
 - !!map
@@ -8145,7 +8145,7 @@
     ascNodeLongitude: 168
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xeffac
 
 - !!map
@@ -8164,7 +8164,7 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff3354
 
 - !!map
@@ -8183,7 +8183,7 @@
     ascNodeLongitude: 12
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x9b5a0
 
 - !!map
@@ -8202,7 +8202,7 @@
     ascNodeLongitude: 212
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8809c
 
 - !!map
@@ -8221,7 +8221,7 @@
     ascNodeLongitude: 276
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffeb80
 
 - !!map
@@ -8239,7 +8239,7 @@
     ascNodeLongitude: 187
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7b9f
 
 - !!map
@@ -8258,7 +8258,7 @@
     ascNodeLongitude: 43
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x66ff
 
 - !!map
@@ -8277,7 +8277,7 @@
     ascNodeLongitude: 128
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ff
 
 - !!map
@@ -8296,7 +8296,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x228bff
 
 - !!map
@@ -8315,7 +8315,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x683dff
 
 - !!map
@@ -8334,7 +8334,7 @@
     ascNodeLongitude: 42
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x35ff6a
 
 - !!map
@@ -8353,7 +8353,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8b16ff
 
 - !!map
@@ -8372,7 +8372,7 @@
     ascNodeLongitude: 90
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc52499
 
 - !!map
@@ -8390,7 +8390,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xf33047
 
 - !!map
@@ -8409,7 +8409,7 @@
     ascNodeLongitude: 192
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff798f
 
 - !!map
@@ -8427,7 +8427,7 @@
     ascNodeLongitude: 72
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc9d
 
 - !!map
@@ -8446,7 +8446,7 @@
     ascNodeLongitude: 243
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffdd0
 
 - !!map
@@ -8465,7 +8465,7 @@
     ascNodeLongitude: 16
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2cf380
 
 - !!map
@@ -8484,7 +8484,7 @@
     ascNodeLongitude: 45
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7becff
 
 - !!map
@@ -8502,7 +8502,7 @@
     ascNodeLongitude: 162
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xdddddd
 
 - !!map
@@ -8520,7 +8520,7 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7bbb
 
 - !!map
@@ -8539,7 +8539,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff4875
 
 - !!map
@@ -8558,7 +8558,7 @@
     ascNodeLongitude: 173
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x46085
 
 - !!map
@@ -8576,7 +8576,7 @@
     ascNodeLongitude: 240
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa8ad
 
 - !!map
@@ -8594,7 +8594,7 @@
     ascNodeLongitude: 172
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xcccccc
 
 - !!map
@@ -8612,7 +8612,7 @@
     ascNodeLongitude: 241
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xedca75
 
 - !!map
@@ -8631,7 +8631,7 @@
     ascNodeLongitude: 198
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x13e48b
 
 - !!map
@@ -8649,7 +8649,7 @@
     ascNodeLongitude: 180
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc99
 
 - !!map
@@ -8667,7 +8667,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffcc99
 
 - !!map
@@ -8686,7 +8686,7 @@
     ascNodeLongitude: 275
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff5f6c
 
 - !!map
@@ -8704,7 +8704,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffff99
 
 - !!map
@@ -8722,7 +8722,7 @@
     ascNodeLongitude: 269
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb1eb8a
 
 - !!map
@@ -8741,7 +8741,7 @@
     ascNodeLongitude: 42
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6bcc
 
 - !!map
@@ -8760,7 +8760,7 @@
     ascNodeLongitude: 294
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff2b7e
 
 - !!map
@@ -8778,7 +8778,7 @@
     ascNodeLongitude: 308
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x9904c
 
 - !!map
@@ -8797,7 +8797,7 @@
     ascNodeLongitude: 97
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x96b0ff
 
 - !!map
@@ -8815,7 +8815,7 @@
     ascNodeLongitude: 147
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x76ff86
 
 - !!map
@@ -8834,7 +8834,7 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5209b
 
 - !!map
@@ -8852,7 +8852,7 @@
     ascNodeLongitude: 152
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb1eb8a
 
 - !!map
@@ -8871,7 +8871,7 @@
     ascNodeLongitude: 36
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7bbb
 
 - !!map
@@ -8889,7 +8889,7 @@
     ascNodeLongitude: 227
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa2dae0
 
 - !!map
@@ -8907,7 +8907,7 @@
     ascNodeLongitude: 184
   meanAnomaly0:       1.7
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x727272
 
 - !!map
@@ -8925,7 +8925,7 @@
     ascNodeLongitude: 11
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x86a4ff
 
 - !!map
@@ -8944,7 +8944,7 @@
     ascNodeLongitude: 15
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffdc4d
 
 - !!map
@@ -8962,7 +8962,7 @@
     ascNodeLongitude: 7
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xf6d045
 
 - !!map
@@ -8981,7 +8981,7 @@
     ascNodeLongitude: 8
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc4f645
 
 - !!map
@@ -8999,7 +8999,7 @@
     ascNodeLongitude: 249
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x45f6df
 
 - !!map
@@ -9018,7 +9018,7 @@
     ascNodeLongitude: 84
   meanAnomaly0:       0.1
   epoch:              21140000000
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ff
 
 - !!map
@@ -9037,7 +9037,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ff
 
 - !!map
@@ -9056,7 +9056,7 @@
     ascNodeLongitude: 23
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff3333
 
 - !!map
@@ -9075,7 +9075,7 @@
     ascNodeLongitude: 56
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xeb2e55
 
 - !!map
@@ -9094,7 +9094,7 @@
     ascNodeLongitude: 173
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xd82977
 
 - !!map
@@ -9113,7 +9113,7 @@
     ascNodeLongitude: 165
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff910
 
 - !!map
@@ -9132,7 +9132,7 @@
     ascNodeLongitude: 51
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xc52499
 
 - !!map
@@ -9151,7 +9151,7 @@
     ascNodeLongitude: 62
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7889
 
 - !!map
@@ -9170,7 +9170,7 @@
     ascNodeLongitude: 45
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb11fbb
 
 - !!map
@@ -9189,7 +9189,7 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x9e1add
 
 - !!map
@@ -9208,7 +9208,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8b16ff
 
 - !!map
@@ -9227,7 +9227,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x66ff
 
 - !!map
@@ -9246,7 +9246,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x99ff
 
 - !!map
@@ -9264,7 +9264,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ff
 
 - !!map
@@ -9283,7 +9283,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7330ff
 
 - !!map
@@ -9302,7 +9302,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffed99
 
 - !!map
@@ -9321,7 +9321,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff6666
 
 - !!map
@@ -9340,7 +9340,7 @@
     ascNodeLongitude: 56
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x5c4aff
 
 - !!map
@@ -9359,7 +9359,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff5454
 
 - !!map
@@ -9378,7 +9378,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff9c55
 
 - !!map
@@ -9397,7 +9397,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffee66
 
 - !!map
@@ -9416,7 +9416,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7dff6c
 
 - !!map
@@ -9435,7 +9435,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x73c9ff
 
 - !!map
@@ -9454,7 +9454,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa856ff
 
 - !!map
@@ -9473,7 +9473,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff7097
 
 - !!map
@@ -9492,7 +9492,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff808d
 
 - !!map
@@ -9510,7 +9510,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
 
 - !!map
@@ -9528,7 +9528,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xddffff
 
 - !!map
@@ -9546,7 +9546,7 @@
     ascNodeLongitude: 23
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x7f7f7f
 
 - !!map
@@ -9565,7 +9565,7 @@
     ascNodeLongitude: 96
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x4564ff
 
 - !!map
@@ -9584,7 +9584,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffb20
 
 - !!map
@@ -9603,7 +9603,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xddfdff
 
 - !!map
@@ -9622,7 +9622,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff066
 
 - !!map
@@ -9641,7 +9641,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xa05dff
 
 - !!map
@@ -9659,7 +9659,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x1de3e0
 
 - !!map
@@ -9678,7 +9678,7 @@
     ascNodeLongitude: 118
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x2e7eff
 
 - !!map
@@ -9697,7 +9697,7 @@
     ascNodeLongitude: 82
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x1798ff
 
 - !!map
@@ -9716,7 +9716,7 @@
     ascNodeLongitude: 21
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x8b16ff
 
 - !!map
@@ -9735,7 +9735,7 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xff3333
 
 - !!map
@@ -9754,7 +9754,7 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x808dff
 
 - !!map
@@ -9773,7 +9773,7 @@
     ascNodeLongitude: 84
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x80cdff
 
 - !!map
@@ -9791,7 +9791,7 @@
     ascNodeLongitude: 13
   meanAnomaly0:       0.9
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb2ff
 
 - !!map
@@ -9810,7 +9810,7 @@
     ascNodeLongitude: 46
   meanAnomaly0:       0.1
   epoch:              125000000000
-  orbiting:           0
+  orbiting:           64
   color:              0xd5042
 
 - !!map
@@ -9829,7 +9829,7 @@
     ascNodeLongitude: 44
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xef8db
 
 - !!map
@@ -9848,7 +9848,7 @@
     ascNodeLongitude: 212
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xef5a9
 
 - !!map
@@ -9866,7 +9866,7 @@
     ascNodeLongitude: 7
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffeb7
 
 - !!map
@@ -9885,7 +9885,7 @@
     ascNodeLongitude: 32
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xb3fdb
 
 - !!map
@@ -9904,7 +9904,7 @@
     ascNodeLongitude: 128
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x1efc12
 
 - !!map
@@ -9923,7 +9923,7 @@
     ascNodeLongitude: 4
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x6cf51b
 
 - !!map
@@ -9941,7 +9941,7 @@
     ascNodeLongitude: 201
   meanAnomaly0:       3.14
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0x18fba8
 
 - !!map
@@ -9960,5 +9960,5 @@
     ascNodeLongitude: 0
   meanAnomaly0:       0.1
   epoch:              0
-  orbiting:           0
+  orbiting:           64
   color:              0xffffff
